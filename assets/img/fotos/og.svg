@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Club de Leones Temuco Antumalal">
+
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0"   stop-color="#0A2A6B"/>
+      <stop offset="1"   stop-color="#030C22"/>
+    </linearGradient>
+    <pattern id="p" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#fff" opacity=".055"/>
+    </pattern>
+    <radialGradient id="halo" cx="35%" cy="45%" r="70%">
+      <stop offset="0"   stop-color="#FFCD00" stop-opacity=".22"/>
+      <stop offset="1"   stop-color="#FFCD00" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect width="1200" height="630" fill="url(#p)"/>
+  <rect width="1200" height="630" fill="url(#halo)"/>
+  <g fill="none" stroke="#fff" stroke-opacity=".07" stroke-width="1.5">
+    <circle cx="983.9999999999999" cy="126"  r="360"/>
+    <circle cx="983.9999999999999" cy="126"  r="528"/>
+    <circle cx="144" cy="579.6" r="312"/>
+  </g>
+  <path d="M0 630 L 504 327.6 L 792 491.40000000000003 L 1200 214.20000000000002 L 1200 630 Z"
+        fill="#fff" opacity=".045"/>
+
+  <g opacity=".13" transform="translate(600,264.59999999999997)">
+    <circle r="119.7"        fill="none" stroke="#FFCD00" stroke-width="6.5835"/>
+    <circle r="93.366" fill="none" stroke="#FFCD00" stroke-width="3.5909999999999997"/>
+    <path d="M -26.334 -50.274 h 23.94 v 59.85 h 31.122000000000003 v 23.94 h -55.062000000000005 z"
+          fill="#FFCD00"/>
+  </g>
+  <g font-family="'Inter Tight','Inter',Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="453.59999999999997" fill="#fff" font-size="35" font-weight="800"
+          letter-spacing="0.7000000000000001">CLUB DE LEONES TEMUCO ANTUMALAL</text>
+    
+  </g>
+</svg>

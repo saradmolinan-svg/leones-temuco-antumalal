@@ -1,0 +1,39 @@
+name: Actualizar noticias
+
+# Refresca data/noticias.json desde las fuentes oficiales de Lions
+# y la prensa que cubre a los Clubes de Leones en Chile.
+on:
+  schedule:
+    - cron: '0 11,23 * * *'   # 08:00 y 20:00 hora de Chile (UTC-3)
+  workflow_dispatch:           # permite ejecutarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Consultar fuentes y regenerar data/noticias.json
+        run: node scripts/fetch-noticias.mjs
+
+      - name: Consultar calendario del Distrito T4
+        run: node scripts/fetch-agenda.mjs
+
+      - name: Publicar cambios
+        run: |
+          if [[ -z "$(git status --porcelain data/noticias.json data/agenda-distrito.json)" ]]; then
+            echo "Sin novedades: no hay nada que publicar."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/noticias.json data/agenda-distrito.json
+          git commit -m "Noticias y agenda actualizadas automáticamente"
+          git push

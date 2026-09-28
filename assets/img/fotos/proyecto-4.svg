@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="Cartel de la paz">
+
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0"   stop-color="#12488F"/>
+      <stop offset="1"   stop-color="#04173F"/>
+    </linearGradient>
+    <pattern id="p" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#fff" opacity=".055"/>
+    </pattern>
+    <radialGradient id="halo" cx="52%" cy="68%" r="70%">
+      <stop offset="0"   stop-color="#FFCD00" stop-opacity=".22"/>
+      <stop offset="1"   stop-color="#FFCD00" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g)"/>
+  <rect width="800" height="1000" fill="url(#p)"/>
+  <rect width="800" height="1000" fill="url(#halo)"/>
+  <g fill="none" stroke="#fff" stroke-opacity=".07" stroke-width="1.5">
+    <circle cx="656" cy="200"  r="300"/>
+    <circle cx="656" cy="200"  r="440"/>
+    <circle cx="96" cy="920" r="260"/>
+  </g>
+  <path d="M0 1000 L 336 520 L 528 780 L 800 340 L 800 1000 Z"
+        fill="#fff" opacity=".045"/>
+
+  <g opacity=".13" transform="translate(400,420)">
+    <circle r="152"        fill="none" stroke="#FFCD00" stroke-width="8.36"/>
+    <circle r="118.56" fill="none" stroke="#FFCD00" stroke-width="4.56"/>
+    <path d="M -33.44 -63.839999999999996 h 30.400000000000002 v 76 h 39.52 v 30.400000000000002 h -69.92 z"
+          fill="#FFCD00"/>
+  </g>
+  <g font-family="'Inter Tight','Inter',Arial,sans-serif" text-anchor="middle">
+    <text x="400" y="720" fill="#fff" font-size="44" font-weight="800"
+          letter-spacing="0.88">CARTEL DE LA PAZ</text>
+    <text x="400" y="786" fill="#FFCD00" font-size="22" font-weight="700"
+          letter-spacing="4.84" opacity=".85">REEMPLAZAR CON FOTO DEL CLUB · 800×1000</text>
+  </g>
+</svg>

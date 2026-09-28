@@ -1,0 +1,48 @@
+# Configuración para publicar en Netlify (opcional).
+# Arrastra la carpeta a netlify.com o conecta el repositorio de GitHub.
+
+[build]
+  publish = "."
+  command = ""
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
+
+# Panel de administración: fuera de los buscadores y sin quedar en caché.
+# Para pedir contraseña además del candado del propio panel, ve a
+# Site settings → Access control → Password protection (plan Pro de Netlify),
+# o usa Netlify Identity. Ver docs/PANEL-ADMIN.md
+[[headers]]
+  for = "/admin.html"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    Cache-Control = "no-store"
+
+# Los datos del sitio los reescribe el panel: caché corta para que los
+# cambios se vean enseguida.
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300"
+
+# Imágenes y fuentes: caché larga (rara vez cambian).
+[[headers]]
+  for = "/assets/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# CSS y JS: caché corta, para que los cambios se vean enseguida.
+# (index.html además los pide con ?v=1; sube ese número al editarlos.)
+[[headers]]
+  for = "/assets/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=600, must-revalidate"
+
+[[headers]]
+  for = "/assets/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=600, must-revalidate"

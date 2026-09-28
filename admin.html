@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Panel de administración · Club de Leones Temuco Antumalal</title>
+
+<!-- Este panel es solo para los dueños del sitio: que no aparezca en Google. -->
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="theme-color" content="#001B4D">
+<link rel="icon" href="assets/img/lions-international.png" type="image/png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/admin.css?v=1">
+</head>
+<body>
+
+<!-- ══════════════════ CANDADO ══════════════════ -->
+<div class="entrada" id="entrada">
+  <form class="entrada__caja" id="formEntrada">
+    <img src="assets/img/lions-international.png" alt="Escudo del Club de Leones Temuco Antumalal">
+    <h1>Panel del club</h1>
+    <p id="entradaSub">Ingresa la clave para administrar el sitio.</p>
+
+    <label class="solo-lectores" for="clave">Clave del panel</label>
+    <input type="password" id="clave" autocomplete="current-password" placeholder="••••••" required>
+
+    <div class="campo oculto" id="claveRepetirCampo" style="margin-top:10px">
+      <label class="solo-lectores" for="claveRepetir">Repite la clave</label>
+      <input type="password" id="claveRepetir" autocomplete="new-password" placeholder="Repite la clave">
+    </div>
+
+    <div class="aviso aviso--mal oculto" id="entradaError" style="margin:14px 0 0; text-align:left">
+      <span id="entradaErrorTxt"></span>
+    </div>
+
+    <button type="submit" class="btn btn--bloque" style="margin-top:16px" id="entradaBtn">Entrar</button>
+
+    <p class="entrada__aviso">
+      <strong>Ojo:</strong> esta clave evita que alguien entre por curiosidad, pero no es
+      una caja fuerte: el sitio no tiene servidor, así que la protección de verdad la da
+      el hosting. En Netlify puedes proteger <code>/admin.html</code> con contraseña.
+      <a href="docs/PANEL-ADMIN.md" target="_blank" rel="noopener">Cómo hacerlo</a>.
+    </p>
+  </form>
+</div>
+
+<!-- ══════════════════ PANEL ══════════════════ -->
+<div class="app oculto" id="app">
+
+  <aside class="lateral" id="lateral">
+    <div class="lateral__marca">
+      <img src="assets/img/lions-international.png" alt="">
+      <span>
+        <b>Leones Antumalal</b>
+        <span>Panel de administración</span>
+      </span>
+    </div>
+    <nav class="lateral__nav" id="nav" aria-label="Secciones del panel"></nav>
+  </aside>
+
+  <div class="principal">
+    <header class="barra">
+      <button class="btn btn--fantasma menu-movil" id="btnMenu" aria-label="Abrir menú">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+      <span class="barra__titulo" id="barraTitulo">Inicio</span>
+      <span class="barra__estado" id="estado" data-e="limpio">
+        <i></i><span>Todo publicado</span>
+      </span>
+
+      <div class="barra__acc">
+        <a class="btn btn--linea" id="btnVista" href="index.html?borrador=1" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>
+          <span>Vista previa</span>
+        </a>
+        <button class="btn btn--oro" id="btnPublicar">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+          <span>Publicar</span>
+        </button>
+      </div>
+    </header>
+
+    <main class="lienzo" id="lienzo"></main>
+  </div>
+</div>
+
+<!-- ══════════════════ DIÁLOGO DE PUBLICACIÓN ══════════════════ -->
+<div class="velo" id="veloPublicar">
+  <div class="dialogo" role="dialog" aria-modal="true" aria-labelledby="tituloPublicar">
+    <div class="dialogo__cab">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00338D" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+      <h3 id="tituloPublicar">Publicar los cambios</h3>
+      <button class="dialogo__cerrar" data-cerrar aria-label="Cerrar">&times;</button>
+    </div>
+    <div class="dialogo__cuerpo">
+
+      <div class="pestanas" id="pestanasPublicar">
+        <button class="activo" data-tab="descargar">Descargar archivos</button>
+        <button data-tab="github">Publicar en GitHub</button>
+      </div>
+
+      <!-- ─── A) Descargar ─── -->
+      <div id="tabDescargar">
+        <div class="aviso aviso--info">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 16v-5M12 8h.01"/></svg>
+          <span>
+            <b>Sirve para cualquier hosting.</b>
+            Descargas los archivos con los cambios y los subes a la carpeta
+            <code>data/</code> del sitio. Es el mismo gesto de siempre: arrastrar y soltar.
+          </span>
+        </div>
+
+        <div class="paso">
+          <span class="paso__n">1</span>
+          <div class="paso__txt">
+            <b>Descarga los archivos</b>
+            Se guardan en tu carpeta de Descargas.
+            <div style="display:flex; flex-wrap:wrap; gap:7px; margin-top:9px" id="botonesDescarga"></div>
+          </div>
+        </div>
+
+        <div class="paso">
+          <span class="paso__n">2</span>
+          <div class="paso__txt">
+            <b>Súbelos al sitio</b>
+            Reemplaza los archivos dentro de la carpeta <code>data/</code>.
+            <br><b style="margin-top:7px">En Netlify:</b> entra a tu sitio → <em>Deploys</em> →
+            arrastra la carpeta completa del proyecto (ya con los archivos nuevos adentro).
+            <br><b style="margin-top:7px">Por FTP:</b> sube los archivos a <code>public_html/data/</code>.
+          </div>
+        </div>
+
+        <div class="paso">
+          <span class="paso__n">3</span>
+          <div class="paso__txt">
+            <b>Listo</b>
+            Los cambios se ven al instante. Si no aparecen, recarga con
+            <code>Ctrl</code> + <code>F5</code>.
+          </div>
+        </div>
+      </div>
+
+      <!-- ─── B) GitHub ─── -->
+      <div id="tabGithub" class="oculto">
+        <div class="aviso aviso--ok">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 13 4 4L19 7"/></svg>
+          <span>
+            <b>Publicación en un clic.</b>
+            Si el sitio está en GitHub (con Netlify, Vercel o GitHub Pages conectados),
+            el panel sube los cambios solo y la web se actualiza en un par de minutos.
+          </span>
+        </div>
+
+        <div class="fila">
+          <div class="campo">
+            <label for="ghUsuario">Usuario u organización</label>
+            <input type="text" id="ghUsuario" placeholder="leonesantumalal" autocomplete="off" spellcheck="false">
+          </div>
+          <div class="campo">
+            <label for="ghRepo">Repositorio</label>
+            <input type="text" id="ghRepo" placeholder="sitio-web" autocomplete="off" spellcheck="false">
+          </div>
+        </div>
+
+        <div class="fila">
+          <div class="campo">
+            <label for="ghRama">Rama</label>
+            <input type="text" id="ghRama" placeholder="main" autocomplete="off" spellcheck="false">
+          </div>
+          <div class="campo">
+            <label for="ghToken">Token de acceso</label>
+            <input type="password" id="ghToken" placeholder="github_pat_..." autocomplete="off" spellcheck="false">
+            <span class="ayuda">
+              GitHub → Settings → Developer settings → <em>Fine-grained tokens</em>,
+              con permiso <em>Contents: Read and write</em> sobre este repositorio.
+            </span>
+          </div>
+        </div>
+
+        <label class="switch" style="margin:4px 0 16px">
+          <input type="checkbox" id="ghRecordar">
+          <span class="switch__pista"></span>
+          <span class="switch__txt">Recordar el token en este computador</span>
+        </label>
+
+        <div class="aviso aviso--ojo">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9v4M12 17h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/></svg>
+          <span>
+            Guarda el token solo en un computador de confianza: queda en este navegador.
+            Si es un equipo compartido, deja el interruptor apagado y pégalo cada vez.
+          </span>
+        </div>
+
+        <button class="btn btn--bloque" id="btnGhPublicar">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+          Publicar ahora en GitHub
+        </button>
+
+        <div id="ghSalida" style="margin-top:14px"></div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="tostadas" id="tostadas" aria-live="polite"></div>
+
+<script src="assets/js/iconos.js?v=1"></script>
+<script src="assets/js/almacen.js?v=1"></script>
+<script src="assets/js/config.js?v=3"></script>
+<script src="assets/js/admin.js?v=5"></script>
+</body>
+</html>

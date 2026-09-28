@@ -1,0 +1,14 @@
+{
+  "name": "leones-temuco-antumalal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio web del Club de Leones Temuco Antumalal, Distrito T-4, Temuco, Chile.",
+  "type": "module",
+  "scripts": {
+    "noticias": "node scripts/fetch-noticias.mjs",
+    "agenda": "node scripts/fetch-agenda.mjs",
+    "dev": "python -m http.server 5544",
+    "start": "python -m http.server 5544"
+  },
+  "engines": { "node": ">=18" }
+}

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# El panel de administración no debe aparecer en Google.
+Disallow: /admin.html
+
+# Versión alternativa del diseño, todavía en evaluación: que no compita
+# en Google con la página principal. Al elegirla, se borra esta línea.
+Disallow: /experiencia.html
+
+Sitemap: https://leonesantumalal.cl/sitemap.xml

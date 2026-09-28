@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Club de Leones Temuco Antumalal | Nosotros Servimos</title>
+<meta name="description" content="Club de Leones Temuco Antumalal, Distrito T-4. Desde 1983 en Temuco, La Araucanía, sirviendo a quienes más lo necesitan.">
+<meta name="theme-color" content="#030A1F">
+
+<link rel="icon" href="assets/img/lions-international.png" type="image/png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/rediseno.css?v=36">
+</head>
+<body class="cargando">
+
+<a class="saltar" href="#contenido">Saltar al contenido</a>
+
+<!-- ══════════ ESCENA 3D (partículas doradas) ══════════ -->
+<canvas id="gl" aria-hidden="true"></canvas>
+<div class="luz" aria-hidden="true"></div>
+<div class="grano" aria-hidden="true"></div>
+
+<!-- ══════════ CARGA ══════════ -->
+<div class="carga" id="carga" role="status" aria-label="Cargando">
+  <div class="carga__centro">
+    <svg class="carga__aro" viewBox="0 0 120 120" aria-hidden="true">
+      <circle cx="60" cy="60" r="54" class="pista"/>
+      <circle cx="60" cy="60" r="54" class="trazo" id="cargaTrazo"/>
+    </svg>
+    <img src="assets/img/lions-international.png" alt="" width="64" height="64">
+  </div>
+  <div class="carga__n"><span id="cargaN">0</span><i>%</i></div>
+  <p class="carga__lema">Nosotros Servimos</p>
+  <i class="carga__tel carga__tel--a"></i><i class="carga__tel carga__tel--b"></i>
+</div>
+
+<div class="progreso" aria-hidden="true"><i id="progreso"></i></div>
+<div class="cursor" id="cursor" aria-hidden="true"><i class="cursor__punto"></i><i class="cursor__aro"><span></span></i></div>
+
+<!-- ══════════ CABECERA ══════════ -->
+<header class="cab" id="cab">
+  <a class="cab__marca" href="#inicio" aria-label="Club de Leones Temuco Antumalal, inicio">
+    <img src="assets/img/lions-international.png" alt="" width="84" height="84">
+    <span><b>Leones Temuco Antumalal</b><small>Distrito T4</small></span>
+  </a>
+  <nav class="cab__nav" aria-label="Navegación principal" id="cabNav"></nav>
+  <div class="cab__der">
+    <a class="btn btn--oro btn--sm mag" href="#unete" id="cabCta"><span>Súmate</span></a>
+    <button class="burger" id="burger" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu"><i></i><i></i></button>
+  </div>
+</header>
+
+<nav class="riel" id="riel" aria-label="Secciones"></nav>
+
+<!-- ══════════ MENÚ PANTALLA COMPLETA ══════════ -->
+<div class="menu" id="menu" aria-hidden="true">
+  <div class="menu__in">
+    <nav class="menu__nav" id="menuNav" aria-label="Menú"></nav>
+    <aside class="menu__lado" id="menuLado"></aside>
+  </div>
+</div>
+
+<main id="contenido"><div id="app"></div></main>
+
+<noscript><p style="padding:2rem;color:#fff;background:#030A1F">Este sitio necesita JavaScript para mostrarse. Escríbenos a leonestemucoantumalal@gmail.com.</p></noscript>
+
+<!-- Librerías -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lenis@1.1.13/dist/lenis.min.js"></script>
+<!-- Datos -->
+<script src="assets/js/iconos.js?v=3"></script>
+<script src="assets/js/rediseno-respaldo.js?v=1"></script>
+<script src="assets/js/rediseno-gl.js?v=10"></script>
+<script src="assets/js/rediseno.js?v=23"></script>
+</body>
+</html>

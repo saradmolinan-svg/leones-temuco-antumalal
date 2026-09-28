@@ -1,0 +1,48 @@
+{
+  "_comentario": "Respaldo curado del feed de Instagram. Se usa SOLO si no configuraste beholdUrl ni iframeUrl en assets/js/config.js. Para cargar una publicación real: descarga la imagen a assets/img/fotos/, pon la ruta en 'imagen' y el enlace del post en 'enlace'. Ver docs/CONECTAR-INSTAGRAM.md",
+  "usuario": "leonestemuco_antumalal",
+  "perfil": "https://www.instagram.com/leonestemuco_antumalal/",
+  "seguidores": 647,
+  "publicaciones": [
+    {
+      "imagen": "assets/img/fotos/ig-1.svg",
+      "enlace": "https://www.instagram.com/leonestemuco_antumalal/",
+      "texto": "Operativo oftalmológico: controles de vista y entrega de lentes a vecinos de Temuco."
+    },
+    {
+      "imagen": "assets/img/fotos/ig-2.svg",
+      "enlace": "https://www.instagram.com/leonestemuco_antumalal/",
+      "texto": "Sesión ordinaria del club. Cada segundo y cuarto lunes nos reunimos a planificar el servicio."
+    },
+    {
+      "imagen": "assets/img/fotos/ig-3.svg",
+      "enlace": "https://www.instagram.com/leonestemuco_antumalal/",
+      "texto": "Campaña de invierno: entrega de frazadas y abrigo a familias de la comuna."
+    },
+    {
+      "imagen": "assets/img/fotos/ig-4.svg",
+      "enlace": "https://www.instagram.com/leonestemuco_antumalal/",
+      "texto": "Entrega de útiles escolares junto a establecimientos de la comuna."
+    },
+    {
+      "imagen": "assets/img/fotos/ig-5.svg",
+      "enlace": "https://www.instagram.com/leonestemuco_antumalal/",
+      "texto": "Visita al hogar de adultos mayores: compañía, once y actividades recreativas."
+    },
+    {
+      "imagen": "assets/img/fotos/ig-6.svg",
+      "enlace": "https://www.instagram.com/leonestemuco_antumalal/",
+      "texto": "Concurso Cartel de la Paz: los niños de Temuco dibujan su visión de la paz."
+    },
+    {
+      "imagen": "assets/img/fotos/ig-7.svg",
+      "enlace": "https://www.instagram.com/leonestemuco_antumalal/",
+      "texto": "Jornada de arborización con estudiantes y juntas de vecinos."
+    },
+    {
+      "imagen": "assets/img/fotos/ig-8.svg",
+      "enlace": "https://www.instagram.com/leonestemuco_antumalal/",
+      "texto": "Aniversario del club: 28 de marzo, desde 1983 al servicio de la comunidad."
+    }
+  ]
+}
