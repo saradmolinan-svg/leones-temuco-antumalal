@@ -724,3 +724,13 @@ a.dato:hover b { color: var(--oro); }
   #causas .causas__panel { grid-column: 1; grid-row: 2; min-height: 0; align-self: stretch; }
   #causas .causas__lista { grid-column: 2; grid-row: 1 / span 2; display: grid; align-content: center; align-self: center; }
 }
+/* portada: letras más grandes (no se encogen con el ajuste de pantalla) */
+@media (min-width: 900px) and (min-height: 560px) {
+  .hero__t { font-size: clamp(46px, 11.6vh, 136px); max-width: 12em; }
+  .hero__sub { font-size: clamp(18px, 3vh, 31px); max-width: 40em; line-height: 1.5; }
+  .hero__sub em { font-size: 1.18em; }
+  .pill { font-size: clamp(14px, 2.1vh, 21px); padding: .6em 1.2em .6em 1em; }
+  .hero .btn, .hero .btn--lg { font-size: clamp(16px, 2.5vh, 23px); padding: 1em 1.9em; }
+  .hero__statn { font-size: clamp(48px, 9vh, 96px); }
+  .hero__stat span, .hero__stat p, .hero__scroll { font-size: clamp(12px, 1.9vh, 17px); }
+}
