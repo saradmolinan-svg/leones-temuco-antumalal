@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T02:22:21.878Z",
+  "generado": "2026-09-30T01:43:48.955Z",
   "total": 24,
   "fuentes": [
     {
@@ -92,7 +92,7 @@
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVExlbjR5Wi1tMG5PMVhfYWVEckZVQnNxamJYNnhCaUY2ek0yR1Nuem01NjdaZGNxZ1VRSDEwak1YSlg1NnA5bHdkamEyV1g2aEttbmdpd2pHUTNxTG1OS3E1VFMzMGJmRUNlb3JlUk9OVktrVGlpMThqNTBOVjhRUHZDYldoU2M0RG9ObFY4eVA3NmI1NkRF?oc=5",
       "fecha": "2026-07-07T07:00:00.000Z",
-      "fuente": "| Fuerza Aérea de Chile",
+      "fuente": "fach.mil.cl",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -146,7 +146,7 @@
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tUW5MYXlBZ2s5TS0yVU1PbG93RVI1Y0hmMHRRcWJpZXF3Q0RlYzFNRVhRR3ZpOVh1cDltUTZXWi11ZXRQd3hTVHZOQ0JsSW1pRHZhTTRhTnNCMWpEMFVmbmRnMVhEbzlUZmU2bFIzWlJxNXh0UVZmSF9TYW4tdw?oc=5",
       "fecha": "2026-05-06T07:00:00.000Z",
-      "fuente": "paislobo.cl",
+      "fuente": "Paislobo Prensa",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -155,7 +155,7 @@
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX1cxbkI1anVfcjBMV0Z1QTZFQVFWY05ybEpxQjFKdjUyNkFkdHRXWUdkN2V2TXFObVVYZ3VEMTZPekdxcXhqWnRSLUdERF8xVmtiMmctZjFKX0YxbWtDRFpCLUtBNGdaMG1haGFPT2xaOUJhUS1zcXRnaHlYY1l6dEJiYTNnXy0wMkZDcXZBVHpfQmpJeTdlaHRVRENNVDNHRF9MOVc4eFV5RHBxak1ibXhmS3JvUnZRZld2b3hUTmRNY0FJejdic3lFNVlrVnNlWFJqbGpNWHBnUmc?oc=5",
       "fecha": "2026-05-04T07:00:00.000Z",
-      "fuente": "Universidad de La Frontera",
+      "fuente": "ufro.cl",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -169,20 +169,20 @@
       "imagen": ""
     },
     {
-      "titulo": "75 años del Leonismo en Uruguay: una historia de servicio que trascendió fronteras",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0FjaHJMUDBQRFhLeXlaR01oSmhIa21ueWRCUDhDcE8wU0l0WWFGSjV1bWowTFY4aUVqd0JHTFNNZm1nOHJlZVJQU19vYXI5dGo4eUp4cUdLVVZCMTdFYzRvam1IZHl4U2JINThaNmN4QkNvdERLcExpTkM5MnhVa2d6UmxJWWl2Qm9wejg1NUZyQ01GUl9EcVFMZjh1NktQOVQ0MTRRUUdmVE0?oc=5",
-      "fecha": "2026-04-03T07:00:00.000Z",
-      "fuente": "10minutos.com.uy",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
       "titulo": "Conoce la labor de los Clubes de Leones y lo que trae la próxima convención nacional",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTJ6OVN3YXlOTWtWc2JmZTFMbEcxbEZSRXdBejAySTBkRUFPLTQwNkxzeDBlNTFSUWRndFE1cVVvNXpvZWJ6UzdqYVc5M2ljaTVoOWlneDBGSnBiM3g1X05KY1NCbkJhbDNwLVNzTFVBbS1CT3FKckk1Tl9pLXZGYXZvVXVsbEs1Mm5Ram5FY2FzSlVLWjZrS1czWHNPT1FfbGE2NGtFV2ZSdndoSFB6cDFaUWtLSUJHWHJBV254bkxDSzhnTWpxYnRGLVROdmU1MnVRNFg5QQ?oc=5",
       "fecha": "2025-05-09T07:00:00.000Z",
       "fuente": "Canal 9 Bío Bío Televisión",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
+      "titulo": "DÍA DEL LEONISMO CHILENO",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1Z3RLMDExWG9DaTlwUklFUXI0N1VKRjZya1RpZWt0UFkyb20tV0o3X3czNnNNcS1BWjdQYjl1bUtCU0NuVF85TVo5emh5dUFDWVhSZlNxVzhmVTVzdmdr0gFkQVVfeXFMT1lNQ2drdnZIVXo4akxjdFB0Q1pwSS1qYUZmZTk3eFBwYzVxdDN1bXNEYjg3d0hQQ3VSV0VHQ21VSGNraTdZdl96YWdOTTlJZkNjNGF5Y2hHc3NBWW5ZODRLM3FsVw?oc=5",
+      "fecha": "2025-04-24T07:00:00.000Z",
+      "fuente": "Radio Viaducto - Collipulli",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -227,7 +227,7 @@
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTdxa08waHNYQ0MwY2tNQ1NaRm5md2hvNVVLSzF6cGNKRC1fS0RBc1JqZDZXT1YzR0F0cm5oMWNiVTg3ZHdMUFJiWmlCR3d0WWc5S0hmTGFTd3kxZWo1N01kTFdoLTRYUnlDbGU2YURKbV9fSEFFek5lb0t2MS0wSDN3?oc=5",
       "fecha": "2018-05-21T07:00:00.000Z",
-      "fuente": "paislobo.cl",
+      "fuente": "Paislobo Prensa",
       "tipo": "prensa",
       "imagen": ""
     },
