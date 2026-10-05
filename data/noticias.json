@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-05T01:22:15.689Z",
+  "generado": "2026-10-05T19:31:38.088Z",
   "total": 24,
   "fuentes": [
     {
@@ -24,6 +24,15 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Donación en Osorno: Club de Leones Pilmaiquén apoya a Comedor Solidario",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SQnNDNlB5OW43eEZMSkM1OEF0am9aQ3BVeEJDY2NvS2JGQ0MxOEV2djQ4UUdPdlB3czhQSmh0M19uaVhKaXdWanExU19FVnlhZTYtbG1GUEhzUkFUaWNXNWcwbXNRNS1vOE5EZzVDYm1jZWFraUxyQ1BR?oc=5",
+      "fecha": "2026-10-05T02:00:00.000Z",
+      "fuente": "Paislobo Prensa",
+      "tipo": "prensa",
+      "imagen": ""
+    },
     {
       "titulo": "LCIF’s Rapid Response to Ebola",
       "resumen": "The Democratic Republic of the Congo (DRC) is facing the fastest-growing Ebola outbreak ever recorded. As of July 28, thousands of cases have been confirmed, including over 1,500 deaths. The outbreak is caused by the rare Bundibug",
@@ -79,11 +88,11 @@
       "imagen": ""
     },
     {
-      "titulo": "CLUB DE LEONES DE PUNTA ARENAS REALIZA NUEVA VENTA DE GARAGE PARA APOYAR OPERATIVOS OFTALMOLÓGICOS",
+      "titulo": "Club de Leones de La Unión conmemoró 70 años de trayectoria al servicio de la comunidad",
       "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDBtdXVPNHFfWkxkRDhNcUpvVjJrTGprTFdxeDFfb2xlZFliTENYTkZacjY5clNUMGVUUjB2b3dIdkljRkJ1ZzFlWVFaRVBaMS1CMXVxRTQyMzlvQ3RUNGRyenl3SVRRZG5PaHowVmxVZ2dmc0VJdXU0akFZUzQtcXFWd2M4NGNKam52SFZCdXN3eTNVTFRCOUM3U0lwaFZKdUNkMkVhdjk?oc=5",
-      "fecha": "2026-08-08T20:55:37.000Z",
-      "fuente": "Radio Polar",
+      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekl5aVFCM0RHV1NzS3BObGhqdUJsaEJ6NXlGWC1TNnpmOEZfVUtNOG9BbWZrX203dktLZWZVenk5bXhzWGRudnhsbklsZkZoVlQxdnhTd1NKek00VlV1RVA2U3JJX3M1MDZtdVdOMmtlWnMyaWRFWjlBSEpjSnEwSVd6Rk52OGpQdk5OUDdBMGJkUQ?oc=5",
+      "fecha": "2026-07-22T07:00:00.000Z",
+      "fuente": "SoyChile.cl",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -137,16 +146,7 @@
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM3k1SGc3U1hLaHVic295WGlmQ21UME1GS3A0QUFJM0dsV1hNODZKbVc0bV8xZkFXYl9zbmZQU3dBUFFmTzF6UVFSZVhsRTI1M3dKa0x3a1hfdGdMVHhDc0U2UFN6eFRBdVpvUnlSNmpTbHNqVHlXSFlMVG1aY1RfT0RoclRHUjhKZzlkbURfN3dEUm9LX0MzbFkyS1VZUmpjcmZUbWw4Qkllc0xoZUZYbjZvLTY3Z3Rz0gGwAUFVX3lxTE56NkVFRXNLanFPRnVLWHpCdHRTSTQxU0VlcXdYRkhWbDJCbktSQm5YeDdzOXVjZGNPaGxpaGRSVGM2ZW90X0RPYXJwalR1dW5xQ3I3aG1pZnBTSDdFa0pWRHdQR1d5d1JLMXRrYXRBLXBuUDZjdGdOcjJ3clctWGFaUUlCSHpKa0hFZ0FsTXN5TjlzS3RsNzBnS3YwWUp0VUpkVGhvOXVNUmtVU2ZoSEdj?oc=5",
       "fecha": "2026-05-08T07:00:00.000Z",
-      "fuente": "Araucanía Diario",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
-      "titulo": "Club de Leones Río Negro tendrá rama juvenil",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tUW5MYXlBZ2s5TS0yVU1PbG93RVI1Y0hmMHRRcWJpZXF3Q0RlYzFNRVhRR3ZpOVh1cDltUTZXWi11ZXRQd3hTVHZOQ0JsSW1pRHZhTTRhTnNCMWpEMFVmbmRnMVhEbzlUZmU2bFIzWlJxNXh0UVZmSF9TYW4tdw?oc=5",
-      "fecha": "2026-05-06T07:00:00.000Z",
-      "fuente": "Paislobo Prensa",
+      "fuente": "araucaniadiario.cl",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -164,16 +164,16 @@
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNanFKbGgtUnQ5WllyMS01aWNMU3JHbGN6Vjg1M1ViTDAzVkthTk1aTDFsckc2LUlUZmt0cHFzQmE2NmtyczJ2ZVNkZHFWMHpHb2U5MnpiRGhqMV90N2RqQ3JadU5uZ19WSkxNTFlNN1dLN3N5bFY5OGVDZmtFNkdhNmJDYmxsWlpRdFJDUTdjak9MdjR0Yk1JYTlUT2hlb2d5bE1VY1h6ZnFBY0VCa3lyU3RvdzRPYXktZlBjWklqWVA3czJhM3BjU2VIMFJ5WGNnbWE2ZjEzUEdEYmtHMGpvV3Z3?oc=5",
       "fecha": "2026-04-21T07:00:00.000Z",
-      "fuente": "Radio Magallanes",
+      "fuente": "radiomagallanes.cl",
       "tipo": "prensa",
       "imagen": ""
     },
     {
-      "titulo": "Conoce la labor de los Clubes de Leones y lo que trae la próxima convención nacional",
+      "titulo": "75 años del Leonismo en Uruguay: una historia de servicio que trascendió fronteras",
       "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTJ6OVN3YXlOTWtWc2JmZTFMbEcxbEZSRXdBejAySTBkRUFPLTQwNkxzeDBlNTFSUWRndFE1cVVvNXpvZWJ6UzdqYVc5M2ljaTVoOWlneDBGSnBiM3g1X05KY1NCbkJhbDNwLVNzTFVBbS1CT3FKckk1Tl9pLXZGYXZvVXVsbEs1Mm5Ram5FY2FzSlVLWjZrS1czWHNPT1FfbGE2NGtFV2ZSdndoSFB6cDFaUWtLSUJHWHJBV254bkxDSzhnTWpxYnRGLVROdmU1MnVRNFg5QQ?oc=5",
-      "fecha": "2025-05-09T07:00:00.000Z",
-      "fuente": "Canal 9 Bío Bío Televisión",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0FjaHJMUDBQRFhLeXlaR01oSmhIa21ueWRCUDhDcE8wU0l0WWFGSjV1bWowTFY4aUVqd0JHTFNNZm1nOHJlZVJQU19vYXI5dGo4eUp4cUdLVVZCMTdFYzRvam1IZHl4U2JINThaNmN4QkNvdERLcExpTkM5MnhVa2d6UmxJWWl2Qm9wejg1NUZyQ01GUl9EcVFMZjh1NktQOVQ0MTRRUUdmVE0?oc=5",
+      "fecha": "2026-04-03T07:00:00.000Z",
+      "fuente": "10minutos.com.uy",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -218,7 +218,7 @@
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTZITmpjY1FTME9XakZWN1ZTN2tfMkY1NkdNY0xjeXR0TE5IaDlKVEJ2UTNPZ0N2a3dRMDI2d3hUN2J3bzdJLXV4azBGcEpkUkhENTMyOHFxUzByeTZ5aHBaTlZrM0NJMGxNNkJTVU1TX2tIdy1PYVNlbWhuNW1oLVZyQUY3YVYzRGR0MHRVTW00azIteUNoOU5CQmNNaGREUEhmc3hremNHWVlaSlU5anI2eFVYV2QwOEk4RHhoTDdyTmM?oc=5",
       "fecha": "2021-11-30T08:00:00.000Z",
-      "fuente": "Universidad Austral de Chile",
+      "fuente": "diario.uach.cl",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -236,7 +236,7 @@
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS1Q2WHdwZWxhaHhfYmtlNEtLSjFzSElLZHhiS3UyYm53ZVlKelZoZFkyeUZFMFJaaTFEdGNla3NBak9FcmNLR2w2clJlZ0g3bTVJbjN1dl8zWmpPcXV3RmhTS0MwQU8yNGp1WW1xQ2N5M3M2cm1FRS00SGJPNVVaVUdB?oc=5",
       "fecha": "2016-12-07T08:00:00.000Z",
-      "fuente": "Universidad Austral de Chile",
+      "fuente": "diario.uach.cl",
       "tipo": "prensa",
       "imagen": ""
     }
