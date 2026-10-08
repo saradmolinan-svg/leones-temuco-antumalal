@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-07T01:53:14.601Z",
+  "generado": "2026-10-08T02:21:17.740Z",
   "total": 24,
   "fuentes": [
     {
@@ -88,15 +88,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Club de Leones de La Unión conmemoró 70 años de trayectoria al servicio de la comunidad",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekl5aVFCM0RHV1NzS3BObGhqdUJsaEJ6NXlGWC1TNnpmOEZfVUtNOG9BbWZrX203dktLZWZVenk5bXhzWGRudnhsbklsZkZoVlQxdnhTd1NKek00VlV1RVA2U3JJX3M1MDZtdVdOMmtlWnMyaWRFWjlBSEpjSnEwSVd6Rk52OGpQdk5OUDdBMGJkUQ?oc=5",
-      "fecha": "2026-07-22T07:00:00.000Z",
-      "fuente": "SoyChile.cl",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
       "titulo": "En una emotiva y solemne ceremonia, realizada el viernes 10 de julio, el Club de Leones Puerto Varas efectuó el tradicional Cambio de Mando de su Directorio para el período leonístico 2026–2027, dando inicio a una nueva etapa de servicio en beneficio d",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aNDNpTTRhZV8xRDFFbGlNbW9tbDdROHJnUGUxbWNWeTBjMnYyMmVlZkxqNmlKX3hmV21fM3VZWkxNV0c4dTJxNmVpS2lyZEY4S0E?oc=5",
@@ -178,6 +169,15 @@
       "imagen": ""
     },
     {
+      "titulo": "Conoce la labor de los Clubes de Leones y lo que trae la próxima convención nacional",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTJ6OVN3YXlOTWtWc2JmZTFMbEcxbEZSRXdBejAySTBkRUFPLTQwNkxzeDBlNTFSUWRndFE1cVVvNXpvZWJ6UzdqYVc5M2ljaTVoOWlneDBGSnBiM3g1X05KY1NCbkJhbDNwLVNzTFVBbS1CT3FKckk1Tl9pLXZGYXZvVXVsbEs1Mm5Ram5FY2FzSlVLWjZrS1czWHNPT1FfbGE2NGtFV2ZSdndoSFB6cDFaUWtLSUJHWHJBV254bkxDSzhnTWpxYnRGLVROdmU1MnVRNFg5QQ?oc=5",
+      "fecha": "2025-05-09T07:00:00.000Z",
+      "fuente": "Canal 9 Bío Bío Televisión",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
       "titulo": "DÍA DEL LEONISMO CHILENO",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1Z3RLMDExWG9DaTlwUklFUXI0N1VKRjZya1RpZWt0UFkyb20tV0o3X3czNnNNcS1BWjdQYjl1bUtCU0NuVF85TVo5emh5dUFDWVhSZlNxVzhmVTVzdmdr0gFkQVVfeXFMT1lNQ2drdnZIVXo4akxjdFB0Q1pwSS1qYUZmZTk3eFBwYzVxdDN1bXNEYjg3d0hQQ3VSV0VHQ21VSGNraTdZdl96YWdOTTlJZkNjNGF5Y2hHc3NBWW5ZODRLM3FsVw?oc=5",
@@ -223,11 +223,11 @@
       "imagen": ""
     },
     {
-      "titulo": "LXVIII Convención Nacional de Clubes de Leones de Chile",
+      "titulo": "Club de Leones Concepción realiza actividad con niños de Collipulli",
       "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTdxa08waHNYQ0MwY2tNQ1NaRm5md2hvNVVLSzF6cGNKRC1fS0RBc1JqZDZXT1YzR0F0cm5oMWNiVTg3ZHdMUFJiWmlCR3d0WWc5S0hmTGFTd3kxZWo1N01kTFdoLTRYUnlDbGU2YURKbV9fSEFFek5lb0t2MS0wSDN3?oc=5",
-      "fecha": "2018-05-21T07:00:00.000Z",
-      "fuente": "Paislobo Prensa",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzVlbEtjd0RKOUFmVzhOMG9La1UtbVFZaFN4MDdFbG5oSk9nd0xqVlVqOWZiRGdVcUFmOU9PSm9PMGRZTGNPQTlscHhaOF94V0NoUkZzamRDeUFYSGRkYkRpNnZ6T1M1SDJla2NiTjdxNkc4Qm1Dc2thWVM2cERxaUkzSzlCZTdoX1V4YzlHVUJCTzNjVDlvOGtwLXlMUjhscEd1NExzU0trMUVYSGZ1bW53REk4Q1JUckRzcnd6ZHkwZ9IBygFBVV95cUxPZmJoZ0FBcldKQ1FLZXpSQjVxUVZPQ3dydlJ3NXpfa1JqRjJzblppclB1bW9XcHFDWEp3dEdkZW5iZGRVM0xqNUU0dldvY2l2dE1rODdtbGd1cU9VYld5aEV5aXYySlhfS3BvaDJwWS1aNEhHcmV6TkZhWEZqT080VnBHWG1fWDRXVmh1S0RSNkdobzR1eFJka0tPSGswa2N1QjZvMmN1ZjItZ29QdU9jTWZLazJYR1JtRlBtNk15TTNVaHN0eGtsdldB?oc=5",
+      "fecha": "2018-08-10T07:00:00.000Z",
+      "fuente": "Diario Concepción",
       "tipo": "prensa",
       "imagen": ""
     },
