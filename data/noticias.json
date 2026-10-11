@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-10T15:58:56.548Z",
+  "generado": "2026-10-11T01:23:50.897Z",
   "total": 24,
   "fuentes": [
     {
@@ -25,6 +25,15 @@
   ],
   "noticias": [
     {
+      "titulo": "Club de Leones Punta Arenas donó 30 frazadas para usuarios de la Unidad de Emergencia del Hospital Clínico de Magallanes.",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZlR5aVNPXzM4Sjhmd3dmbWJvbWprWllTeGlIZS0xMXhEVHh2Z0dvSXZ2Z3dpdXh2T1hvaThnRlZDcUE4NTd3NWFxSzRCWnhCOG1yaEZ4cENxeGRHVS0yRk93Nmd5ZzNZcmluMDhaUkpsVWdpYWJXRkItSjFuVXR2R1RUcWw5SGhmeUZ6QVJSQ0FnZ1VHamEwOVk4Q1I2WW55OVNXLXRjQnZIdnQ2QXU2eE5jWmMzNGlCUlZwZVRaNFhPc3RyLURCVTRhZW5XZS1xMXgtdDVNZjNaeHJfZEY2cW9YWXpqWFJLUXZwamd1TXJOQQ?oc=5",
+      "fecha": "2026-10-10T19:00:16.000Z",
+      "fuente": "OvejeroNoticias",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
       "titulo": "Donación en Osorno: Club de Leones Pilmaiquén apoya a Comedor Solidario",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SQnNDNlB5OW43eEZMSkM1OEF0am9aQ3BVeEJDY2NvS2JGQ0MxOEV2djQ4UUdPdlB3czhQSmh0M19uaVhKaXdWanExU19FVnlhZTYtbG1GUEhzUkFUaWNXNWcwbXNRNS1vOE5EZzVDYm1jZWFraUxyQ1BR?oc=5",
@@ -34,8 +43,8 @@
       "imagen": ""
     },
     {
-      "titulo": "La rápida respuesta de LCIF al ébola",
-      "resumen": "La República Democrática del Congo (RDC) se enfrenta al brote de ébola de más rápido crecimiento jamás registrado. Hasta el 28 de julio, se han confirmado miles de casos, incluidas más de 1.500 muertes. El brote es causado por la ",
+      "titulo": "LCIF’s Rapid Response to Ebola",
+      "resumen": "The Democratic Republic of the Congo (DRC) is facing the fastest-growing Ebola outbreak ever recorded. As of July 28, thousands of cases have been confirmed, including over 1,500 deaths. The outbreak is caused by the rare Bundibug",
       "enlace": "https://lionmagazine.org/articles/lcifs-rapid-response-to-ebola/",
       "fecha": "2026-09-18T14:00:25.000Z",
       "fuente": "LION Magazine",
@@ -43,8 +52,8 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/09/5B7A1170-1-300x200.jpg"
     },
     {
-      "titulo": "Los Leones crean un espacio más seguro para los niños que luchan contra el cáncer",
-      "resumen": "El Departamento de Inmunohematología y Trasplante de Células Madre del Centro Nacional de Trasplante de Médula Ósea (CNGMO) en Túnez es una de las principales instalaciones oncológicas del norte de África. Cada año, el centro brin",
+      "titulo": "Lions Create a Safer Space for Children Battling Cancer",
+      "resumen": "The Immuno-Hematology and Stem Cell Transplantation Department at the National Bone Marrow Transplantation Center (CNGMO) in Tunis is one of the leading cancer facilities in North Africa. Each year, the center provides 6,000 consu",
       "enlace": "https://lionmagazine.org/articles/lions-create-a-safer-space-for-children-battling-cancer/",
       "fecha": "2026-09-16T14:00:04.000Z",
       "fuente": "LION Magazine",
@@ -52,8 +61,8 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/09/Screenshot-2026-08-27-083031-247x300.jpg"
     },
     {
-      "titulo": "Estamos arraigados en el servicio",
-      "resumen": "Querido León, El servicio es la base de nuestra organización y el corazón de quiénes somos como Leones. Todos los días, en comunidades de todo el mundo, brindamos bondad, compasión y apoyo a quienes más lo necesitan. Nuestro compr",
+      "titulo": "We are Rooted in Service",
+      "resumen": "Dear Lion, Service is the foundation of our organization and at the heart of who we are as Lions. Every day, in communities around the world, we bring kindness, compassion and support to those who need it most. Our shared commitme",
       "enlace": "https://lionmagazine.org/articles/we-are-rooted-in-service/",
       "fecha": "2026-08-12T12:36:34.000Z",
       "fuente": "LION Magazine",
@@ -61,7 +70,7 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Lyon-Mark_CR1_2800x3500-3-240x300.jpg"
     },
     {
-      "titulo": "Arraigado en el servicio",
+      "titulo": "Rooted In Service",
       "resumen": "Service is the foundation of Lions. It’s who we are and what we do. Our roots run deep — stretching far and wide to build lasting connections and strengthen our world. Every time we serve, our roots grow stronger and deeper. Where",
       "enlace": "https://lionmagazine.org/articles/rooted-in-service/",
       "fecha": "2026-08-12T12:36:26.000Z",
@@ -70,8 +79,8 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Lyon_DSC07079-Fix-300x178.jpg"
     },
     {
-      "titulo": "Cruzando hacia la amistad",
-      "resumen": "El león Mike Contreras de Whidbey Island, Washington, estaba a punto de cruzar una calle muy transitada cuando notó que un anciano en el cruce de peatones luchaba por maniobrar su silla de ruedas. El León de Oak Harbor y el ex ofi",
+      "titulo": "Crossing into Friendship",
+      "resumen": "Lion Mike Contreras of Whidbey Island, Washington, was about to cross a busy street when he noticed an elderly man in the crosswalk struggling to maneuver his wheelchair. The Oak Harbor Lion and former police officer quickly jumpe",
       "enlace": "https://lionmagazine.org/articles/crossing-into-friendship/",
       "fecha": "2026-08-12T12:36:11.000Z",
       "fuente": "LION Magazine",
@@ -79,8 +88,8 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Photo-caption_-Kirk-with-Lions-Mike-Contreras-Rob-Horvath-290x300.jpg"
     },
     {
-      "titulo": "Preguntas y respuestas con la León Stephanie Graef",
-      "resumen": "Después de recibir varias invitaciones, Stephanie Graef finalmente dijo que sí a unirse al Club de Leones Chassell en la Península Superior de Michigan. Al principio, ella simplemente quería involucrarse más en su comunidad. Lo qu",
+      "titulo": "Q&A with Lion Stephanie Graef",
+      "resumen": "After receiving several invitations, Stephanie Graef finally said yes to joining the Chassell Lions Club in Michigan’s Upper Peninsula. At first, she simply wanted to get more involved in her community. What she didn’t expect was ",
       "enlace": "https://lionmagazine.org/articles/qa-with-lion-stephanie-graef/",
       "fecha": "2026-08-12T12:35:37.000Z",
       "fuente": "LION Magazine",
@@ -165,15 +174,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVFRRl9IOE9falY3MG9yY0RuSWR6RGNydDNDZjI5dXkxT05teE9udVR4OVhsTHdjaUNIcVdSV2hmYjZrc0NmYjNNcnpubEpkYXNBMG16YmZ2MW44YVgtRkwtaEVnZW9SNE1TYUo4RTNwUXNZWjVHTFhrdDg3NDRfMTVNS08tSTFMZlpKY2FR?oc=5",
       "fecha": "2026-04-25T07:00:00.000Z",
       "fuente": "SoyChile.cl",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
-      "titulo": "75 años del Leonismo en Uruguay: una historia de servicio que trascendió fronteras",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0FjaHJMUDBQRFhLeXlaR01oSmhIa21ueWRCUDhDcE8wU0l0WWFGSjV1bWowTFY4aUVqd0JHTFNNZm1nOHJlZVJQU19vYXI5dGo4eUp4cUdLVVZCMTdFYzRvam1IZHl4U2JINThaNmN4QkNvdERLcExpTkM5MnhVa2d6UmxJWWl2Qm9wejg1NUZyQ01GUl9EcVFMZjh1NktQOVQ0MTRRUUdmVE0?oc=5",
-      "fecha": "2026-04-03T07:00:00.000Z",
-      "fuente": "10minutos.com.uy",
       "tipo": "prensa",
       "imagen": ""
     },
