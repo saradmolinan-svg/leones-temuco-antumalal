@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-13T17:50:48.649Z",
-  "total": 17,
+  "generado": "2026-10-14T01:28:04.649Z",
+  "total": 23,
   "fuentes": [
     {
       "nombre": "LION Magazine",
@@ -49,6 +49,60 @@
       "fecha": "2026-10-05T02:00:00.000Z",
       "fuente": "Paislobo Prensa",
       "tipo": "prensa",
+      "imagen": ""
+    },
+    {
+      "titulo": "LCIF’s Rapid Response to Ebola",
+      "resumen": "The Democratic Republic of the Congo (DRC) is facing the fastest-growing Ebola outbreak ever recorded. As of July 28, thousands of cases have been confirmed, including over 1,500 deaths. The outbreak is caused by the rare Bundibug",
+      "enlace": "https://lionmagazine.org/articles/lcifs-rapid-response-to-ebola/",
+      "fecha": "2026-09-18T14:00:25.000Z",
+      "fuente": "LION Magazine",
+      "tipo": "oficial",
+      "imagen": "https://lionmagazine.org/wp-content/uploads/2026/09/5B7A1170-1-300x200.jpg"
+    },
+    {
+      "titulo": "Lions Create a Safer Space for Children Battling Cancer",
+      "resumen": "The Immuno-Hematology and Stem Cell Transplantation Department at the National Bone Marrow Transplantation Center (CNGMO) in Tunis is one of the leading cancer facilities in North Africa. Each year, the center provides 6,000 consu",
+      "enlace": "https://lionmagazine.org/articles/lions-create-a-safer-space-for-children-battling-cancer/",
+      "fecha": "2026-09-16T14:00:04.000Z",
+      "fuente": "LION Magazine",
+      "tipo": "oficial",
+      "imagen": "https://lionmagazine.org/wp-content/uploads/2026/09/Screenshot-2026-08-27-083031-247x300.jpg"
+    },
+    {
+      "titulo": "We are Rooted in Service",
+      "resumen": "Dear Lion, Service is the foundation of our organization and at the heart of who we are as Lions. Every day, in communities around the world, we bring kindness, compassion and support to those who need it most. Our shared commitme",
+      "enlace": "https://lionmagazine.org/articles/we-are-rooted-in-service/",
+      "fecha": "2026-08-12T12:36:34.000Z",
+      "fuente": "LION Magazine",
+      "tipo": "oficial",
+      "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Lyon-Mark_CR1_2800x3500-3-240x300.jpg"
+    },
+    {
+      "titulo": "Rooted In Service",
+      "resumen": "Service is the foundation of Lions. It’s who we are and what we do. Our roots run deep — stretching far and wide to build lasting connections and strengthen our world. Every time we serve, our roots grow stronger and deeper. Where",
+      "enlace": "https://lionmagazine.org/articles/rooted-in-service/",
+      "fecha": "2026-08-12T12:36:26.000Z",
+      "fuente": "LION Magazine",
+      "tipo": "oficial",
+      "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Lyon_DSC07079-Fix-300x178.jpg"
+    },
+    {
+      "titulo": "Crossing into Friendship",
+      "resumen": "Lion Mike Contreras of Whidbey Island, Washington, was about to cross a busy street when he noticed an elderly man in the crosswalk struggling to maneuver his wheelchair. The Oak Harbor Lion and former police officer quickly jumpe",
+      "enlace": "https://lionmagazine.org/articles/crossing-into-friendship/",
+      "fecha": "2026-08-12T12:36:11.000Z",
+      "fuente": "LION Magazine",
+      "tipo": "oficial",
+      "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Photo-caption_-Kirk-with-Lions-Mike-Contreras-Rob-Horvath-290x300.jpg"
+    },
+    {
+      "titulo": "Q&A with Lion Stephanie Graef",
+      "resumen": "After receiving several invitations, Stephanie Graef finally said yes to joining the Chassell Lions Club in Michigan’s Upper Peninsula. At first, she simply wanted to get more involved in her community. What she didn’t expect was ",
+      "enlace": "https://lionmagazine.org/articles/qa-with-lion-stephanie-graef/",
+      "fecha": "2026-08-12T12:35:37.000Z",
+      "fuente": "LION Magazine",
+      "tipo": "oficial",
       "imagen": ""
     },
     {
