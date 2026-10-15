@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-14T15:36:41.116Z",
-  "total": 23,
+  "generado": "2026-10-15T01:03:25.973Z",
+  "total": 22,
   "fuentes": [
     {
       "nombre": "LION Magazine",
@@ -43,8 +43,8 @@
       "imagen": ""
     },
     {
-      "titulo": "LCIF’s Rapid Response to Ebola",
-      "resumen": "The Democratic Republic of the Congo (DRC) is facing the fastest-growing Ebola outbreak ever recorded. As of July 28, thousands of cases have been confirmed, including over 1,500 deaths. The outbreak is caused by the rare Bundibug",
+      "titulo": "La rápida respuesta de LCIF al ébola",
+      "resumen": "La República Democrática del Congo (RDC) se enfrenta al brote de ébola de más rápido crecimiento jamás registrado. Hasta el 28 de julio, se han confirmado miles de casos, incluidas más de 1.500 muertes. El brote es causado por la ",
       "enlace": "https://lionmagazine.org/articles/lcifs-rapid-response-to-ebola/",
       "fecha": "2026-09-18T14:00:25.000Z",
       "fuente": "LION Magazine",
@@ -52,8 +52,8 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/09/5B7A1170-1-300x200.jpg"
     },
     {
-      "titulo": "Lions Create a Safer Space for Children Battling Cancer",
-      "resumen": "The Immuno-Hematology and Stem Cell Transplantation Department at the National Bone Marrow Transplantation Center (CNGMO) in Tunis is one of the leading cancer facilities in North Africa. Each year, the center provides 6,000 consu",
+      "titulo": "Los Leones crean un espacio más seguro para los niños que luchan contra el cáncer",
+      "resumen": "El Departamento de Inmunohematología y Trasplante de Células Madre del Centro Nacional de Trasplante de Médula Ósea (CNGMO) en Túnez es una de las principales instalaciones oncológicas del norte de África. Cada año, el centro brin",
       "enlace": "https://lionmagazine.org/articles/lions-create-a-safer-space-for-children-battling-cancer/",
       "fecha": "2026-09-16T14:00:04.000Z",
       "fuente": "LION Magazine",
@@ -61,8 +61,8 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/09/Screenshot-2026-08-27-083031-247x300.jpg"
     },
     {
-      "titulo": "We are Rooted in Service",
-      "resumen": "Dear Lion, Service is the foundation of our organization and at the heart of who we are as Lions. Every day, in communities around the world, we bring kindness, compassion and support to those who need it most. Our shared commitme",
+      "titulo": "Estamos arraigados en el servicio",
+      "resumen": "Querido León, El servicio es la base de nuestra organización y el corazón de quiénes somos como Leones. Todos los días, en comunidades de todo el mundo, brindamos bondad, compasión y apoyo a quienes más lo necesitan. Nuestro compr",
       "enlace": "https://lionmagazine.org/articles/we-are-rooted-in-service/",
       "fecha": "2026-08-12T12:36:34.000Z",
       "fuente": "LION Magazine",
@@ -70,8 +70,8 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Lyon-Mark_CR1_2800x3500-3-240x300.jpg"
     },
     {
-      "titulo": "Rooted In Service",
-      "resumen": "Service is the foundation of Lions. It’s who we are and what we do. Our roots run deep — stretching far and wide to build lasting connections and strengthen our world. Every time we serve, our roots grow stronger and deeper. Where",
+      "titulo": "Arraigado en el servicio",
+      "resumen": "El servicio es la base de los Leones. Es quiénes somos y qué hacemos. Nuestras raíces son profundas y se extienden a lo largo y ancho para construir conexiones duraderas y fortalecer nuestro mundo. Cada vez que servimos, nuestras ",
       "enlace": "https://lionmagazine.org/articles/rooted-in-service/",
       "fecha": "2026-08-12T12:36:26.000Z",
       "fuente": "LION Magazine",
@@ -79,7 +79,7 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Lyon_DSC07079-Fix-300x178.jpg"
     },
     {
-      "titulo": "Crossing into Friendship",
+      "titulo": "Cruzando hacia la amistad",
       "resumen": "Lion Mike Contreras of Whidbey Island, Washington, was about to cross a busy street when he noticed an elderly man in the crosswalk struggling to maneuver his wheelchair. The Oak Harbor Lion and former police officer quickly jumpe",
       "enlace": "https://lionmagazine.org/articles/crossing-into-friendship/",
       "fecha": "2026-08-12T12:36:11.000Z",
@@ -88,21 +88,12 @@
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Photo-caption_-Kirk-with-Lions-Mike-Contreras-Rob-Horvath-290x300.jpg"
     },
     {
-      "titulo": "Q&A with Lion Stephanie Graef",
-      "resumen": "After receiving several invitations, Stephanie Graef finally said yes to joining the Chassell Lions Club in Michigan’s Upper Peninsula. At first, she simply wanted to get more involved in her community. What she didn’t expect was ",
+      "titulo": "Preguntas y respuestas con la León Stephanie Graef",
+      "resumen": "Después de recibir varias invitaciones, Stephanie Graef finalmente dijo que sí a unirse al Club de Leones Chassell en la Península Superior de Michigan. Al principio, ella simplemente quería involucrarse más en su comunidad. Lo qu",
       "enlace": "https://lionmagazine.org/articles/qa-with-lion-stephanie-graef/",
       "fecha": "2026-08-12T12:35:37.000Z",
       "fuente": "LION Magazine",
       "tipo": "oficial",
-      "imagen": ""
-    },
-    {
-      "titulo": "Club de Leones de La Unión conmemoró 70 años de trayectoria al servicio de la comunidad",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekl5aVFCM0RHV1NzS3BObGhqdUJsaEJ6NXlGWC1TNnpmOEZfVUtNOG9BbWZrX203dktLZWZVenk5bXhzWGRudnhsbklsZkZoVlQxdnhTd1NKek00VlV1RVA2U3JJX3M1MDZtdVdOMmtlWnMyaWRFWjlBSEpjSnEwSVd6Rk52OGpQdk5OUDdBMGJkUQ?oc=5",
-      "fecha": "2026-07-22T07:00:00.000Z",
-      "fuente": "SoyChile.cl",
-      "tipo": "prensa",
       "imagen": ""
     },
     {
@@ -142,20 +133,20 @@
       "imagen": ""
     },
     {
+      "titulo": "Club de Leones Río Negro tendrá rama juvenil",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tUW5MYXlBZ2s5TS0yVU1PbG93RVI1Y0hmMHRRcWJpZXF3Q0RlYzFNRVhRR3ZpOVh1cDltUTZXWi11ZXRQd3hTVHZOQ0JsSW1pRHZhTTRhTnNCMWpEMFVmbmRnMVhEbzlUZmU2bFIzWlJxNXh0UVZmSF9TYW4tdw?oc=5",
+      "fecha": "2026-05-06T07:00:00.000Z",
+      "fuente": "Paislobo Prensa",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
       "titulo": "UFRO fortalece vínculos con organizaciones sociales tras visita protocolar del Club de Leones Temuco Antumalal",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX1cxbkI1anVfcjBMV0Z1QTZFQVFWY05ybEpxQjFKdjUyNkFkdHRXWUdkN2V2TXFObVVYZ3VEMTZPekdxcXhqWnRSLUdERF8xVmtiMmctZjFKX0YxbWtDRFpCLUtBNGdaMG1haGFPT2xaOUJhUS1zcXRnaHlYY1l6dEJiYTNnXy0wMkZDcXZBVHpfQmpJeTdlaHRVRENNVDNHRF9MOVc4eFV5RHBxak1ibXhmS3JvUnZRZld2b3hUTmRNY0FJejdic3lFNVlrVnNlWFJqbGpNWHBnUmc?oc=5",
       "fecha": "2026-05-04T07:00:00.000Z",
       "fuente": "Universidad de La Frontera",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
-      "titulo": "Club de Leones Temuco Antumalal trae al pianista Roberto Bravo",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVFRRl9IOE9falY3MG9yY0RuSWR6RGNydDNDZjI5dXkxT05teE9udVR4OVhsTHdjaUNIcVdSV2hmYjZrc0NmYjNNcnpubEpkYXNBMG16YmZ2MW44YVgtRkwtaEVnZW9SNE1TYUo4RTNwUXNZWjVHTFhrdDg3NDRfMTVNS08tSTFMZlpKY2FR?oc=5",
-      "fecha": "2026-04-25T07:00:00.000Z",
-      "fuente": "SoyChile.cl",
       "tipo": "prensa",
       "imagen": ""
     },
