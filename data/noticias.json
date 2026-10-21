@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-21T01:05:48.425Z",
-  "total": 21,
+  "generado": "2026-10-21T15:43:23.139Z",
+  "total": 22,
   "fuentes": [
     {
       "nombre": "LION Magazine",
@@ -44,7 +44,7 @@
     },
     {
       "titulo": "Expanding Vision Care Across India with US$1.8 Million in LCIF Grant Funding",
-      "resumen": "A person’s sight affects almost every aspect of their life. Yet for many people across India, quality eye care remains difficult to access, especially in communities outside major cities. For instance, even though cataracts are tr",
+      "resumen": "La vista de una persona afecta a casi todos los aspectos de su vida. Sin embargo, para muchas personas en toda la India, la atención oftalmológica de calidad sigue siendo de difícil acceso, especialmente en comunidades fuera de la",
       "enlace": "https://lionmagazine.org/articles/expanding-vision-care-across-india-with-us1-8-million-in-lcif-grant-funding/",
       "fecha": "2026-10-16T13:00:48.000Z",
       "fuente": "LION Magazine",
@@ -201,6 +201,15 @@
       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzhrNllSYkFSTjk4SE5ERXVDT1ozazZoZkg3RTA5U0xSV0ozdmN1ekdTZVN2bXNWbzBNdU9kUnFjbnQ0U2FyeG9XVWVFYkZwWTB2eERUa1lQOWs0MHRVNkVKc2VVQ3lYa0JPSkZsekdxbTJONGdkM2x4LTFCVjdkVkJNaDJZelhFSlJ5Z3ozSjV3Mm9HbGZPMHdR?oc=5",
       "fecha": "2022-07-04T17:31:59.000Z",
       "fuente": "home.doe.cl",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
+      "titulo": "UACh y Club de Leones firman convenio de colaboración – Noticias UACh",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS1Q2WHdwZWxhaHhfYmtlNEtLSjFzSElLZHhiS3UyYm53ZVlKelZoZFkyeUZFMFJaaTFEdGNla3NBak9FcmNLR2w2clJlZ0g3bTVJbjN1dl8zWmpPcXV3RmhTS0MwQU8yNGp1WW1xQ2N5M3M2cm1FRS00SGJPNVVaVUdB?oc=5",
+      "fecha": "2016-12-07T08:00:00.000Z",
+      "fuente": "Universidad Austral de Chile",
       "tipo": "prensa",
       "imagen": ""
     },
