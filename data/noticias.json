@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-22T01:04:16.083Z",
-  "total": 23,
+  "generado": "2026-10-22T15:43:02.203Z",
+  "total": 22,
   "fuentes": [
     {
       "nombre": "LION Magazine",
@@ -24,6 +24,15 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Pianista Roberto Bravo ofrecerá concierto en el Club de Leones Temuco Antumalal",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0M1NkdxeEJNamt1UDBhWEFfVE05MmtHNUhGZVRSQzVpWWFXMUhyNmVqOExtVjhHWEFmdWE4UXFvMFpqTGdYN0Z1OEtVTnhyZG9MWUtXY3ZuQjM4MXhoN2FjRTJKWUpXem5ZZ2l6X2ZmT0x2aWxReXZyMlBmcTczTzBRYnBjZ0NXTElPMzFrSjI2RDFkQkxvTVdLLXhJTmtncDZDUEh1TjFpLUNVQnc?oc=5",
+      "fecha": "2026-10-22T10:11:50.000Z",
+      "fuente": "Radio Temuco",
+      "tipo": "prensa",
+      "imagen": ""
+    },
     {
       "titulo": "El Club de Leones Puerto Varas Los Colonos recibió a la Gobernadora del Distrito T-4, León Claudia Brulé Puentes, en una instancia que destacó el compromiso institucional, la trayectoria de sus integrantes y el aporte solidario a la comunidad. En el ámbito",
       "resumen": "",
@@ -142,15 +151,6 @@
       "imagen": ""
     },
     {
-      "titulo": "SMU lanza nueva edición de campaña Unidos en apoyo de Fundación Las Rosas y Club de Leones Cruz del Sur",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmRIWjlwTEh0QVNnWl9zU2JmUy0wRl9OMzFFUGFZd0xPNkVsLWllcUVZYWozRzd2TTV1NkMwTEtUU2RTTUxDNWc5VnJZUENYY09WQTdNWTdrOFRUSzF6ZWhSSmRIdWx6bGZycVJmT0gxMmJ1QjdDWkNscUJHbDVFLWMxREQ0S0VIVFhTQW9rWlVOZGJpRWdEQlB1QWZVZTVTRVRxUFpSMUotVWREbG9WMEM2UllyNU5FbmhwSHlrYTR0YzVtMUJXaktmSzM2RHVGTzFHSDFFUEg?oc=5",
-      "fecha": "2026-07-02T07:00:00.000Z",
-      "fuente": "Supermercado Al Día",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
       "titulo": "El mejor Regalo para mamá: Leones presentan a Roberto Bravo en el Municipal",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM3k1SGc3U1hLaHVic295WGlmQ21UME1GS3A0QUFJM0dsV1hNODZKbVc0bV8xZkFXYl9zbmZQU3dBUFFmTzF6UVFSZVhsRTI1M3dKa0x3a1hfdGdMVHhDc0U2UFN6eFRBdVpvUnlSNmpTbHNqVHlXSFlMVG1aY1RfT0RoclRHUjhKZzlkbURfN3dEUm9LX0MzbFkyS1VZUmpjcmZUbWw4Qkllc0xoZUZYbjZvLTY3Z3Rz0gGwAUFVX3lxTE56NkVFRXNLanFPRnVLWHpCdHRTSTQxU0VlcXdYRkhWbDJCbktSQm5YeDdzOXVjZGNPaGxpaGRSVGM2ZW90X0RPYXJwalR1dW5xQ3I3aG1pZnBTSDdFa0pWRHdQR1d5d1JLMXRrYXRBLXBuUDZjdGdOcjJ3clctWGFaUUlCSHpKa0hFZ0FsTXN5TjlzS3RsNzBnS3YwWUp0VUpkVGhvOXVNUmtVU2ZoSEdj?oc=5",
@@ -219,15 +219,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEZudHBLSzdYTlhZbTdFdHEyQm5TQVJzX3NacldKUEpKaEtaOTlpUHpheG5fQWNkOFQwb2tjdW43ZkRtSkgtRWZpQnp4WE96UUFtNi1tbWtMV1JzSHRZN2JVS1dEZ2VpSU11OGJ2c25BUkcyNFRIRnRSZ3Y4UzdzdmJYRTVDUnMtc2Yw?oc=5",
       "fecha": "2022-06-09T07:00:00.000Z",
       "fuente": "Senado República de Chile",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
-      "titulo": "Club de Leones Temuco donó televisión para la Rifa Monumental",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFpBcHhBYzIzWW1kU1JGYmxqVmdfWUl0R2JwbjNfd0JCbGpUdGl0ZjNzazEzbFBFbFVmTDloVGJIMThMT2d4bXRXRHd0VkQ0MjBjR1BfUEpPNGxCRm4zYVl4V2xCeF94MkRIemJnMWdQSldkV0REbU0tMzRzV1ZKOXZUdFZXYkNsTjg3WWhUaEhnSy1wSXFB?oc=5",
-      "fecha": "2015-08-27T07:00:00.000Z",
-      "fuente": "Bomberos Temuco",
       "tipo": "prensa",
       "imagen": ""
     }
