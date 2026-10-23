@@ -1,6 +1,6 @@
 {
-  "generado": "2026-10-23T01:04:13.560Z",
-  "total": 23,
+  "generado": "2026-10-23T15:31:35.801Z",
+  "total": 22,
   "fuentes": [
     {
       "nombre": "LION Magazine",
@@ -25,11 +25,20 @@
   ],
   "noticias": [
     {
-      "titulo": "Pianista Roberto Bravo ofrecerá concierto en el Club de Leones Temuco Antumalal",
+      "titulo": "Roberto Bravo ofrecerá concierto en apoyo a la obra social del Club de Leones Temuco Antumalal",
       "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0M1NkdxeEJNamt1UDBhWEFfVE05MmtHNUhGZVRSQzVpWWFXMUhyNmVqOExtVjhHWEFmdWE4UXFvMFpqTGdYN0Z1OEtVTnhyZG9MWUtXY3ZuQjM4MXhoN2FjRTJKWUpXem5ZZ2l6X2ZmT0x2aWxReXZyMlBmcTczTzBRYnBjZ0NXTElPMzFrSjI2RDFkQkxvTVdLLXhJTmtncDZDUEh1TjFpLUNVQnc?oc=5",
-      "fecha": "2026-10-22T10:11:50.000Z",
-      "fuente": "Radio Temuco",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVlB6Z01YbHlxQmVxejJ1ZkpxbWFKZ1E1eG9hRGJlVlY3ODlMTC1oeHpjYXAtMkU4aDREREk2anZBMFZtVll1VEliejB3ZmNlZDY2ZV96Uk4zTkxiLWlmdVJzMUR3SEVQWExSMnJuNHpGdEwySTl2bW93TU1nVXVlMWtqbHRLTjY5Ql9LbzRiZXFpMG95TmV2b21NREJaN0dSUTQ3ZjBrRkRwazFncDloYjdwSmItZjZKV0ZOWk4xcmM5V1phMEZrX0lyYnlzOFV2T19DRllyVjJ0Rms?oc=5",
+      "fecha": "2026-10-23T15:05:33.000Z",
+      "fuente": "lavozdepucon",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
+      "titulo": "Pianista Roberto Bravo ofrecerá concierto en apoyo a la obra social del Club de Leones Temuco Antumalal",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0szeGpDVjU5S25NWlY0eGVYZnc2VEJrcC1WME5mZ2FxZWp5OEIwQ1FTRjk0cEZlamZwMXN1MFhDSndJcEEyLVFwSGZIcy1NLVBXNVdQQy1pTl9kOWozc0lTbmxxb3g5R2YwSFA1eXNFMG1CV3FKT21zcVNxMS1seFZKRm1fSUx4UGlzUGFhRTFsN2J3U0J1S2VGdUhJeVBISTIwaFpzRTVmNVV5bkNmaFljYTdHZDJjRklLV2g3VUjSAbgBQVVfeXFMUG9kMnZ2M2NVR0ozdFdPbllFVkdOUklWLXVfRXlYaWdjS1hnZ2RpaWRXZEI5ZmZVc0RiQ05CM3lSc2VueXRSMEFSS1IzMV9GQS1fWjhCdHpFbkVLN0U1OGlZMnFwSE8tbnBPVGtUTVNUZmtOaGg5bG1jcTlOdTZkUnptd0tPQ3pLbUxRWW5sYlF0RUZBUUx2SnNhb0xWU01hZHNFeHlZdWgxWG9aSE9VV1dpQXBhZlpfLQ?oc=5",
+      "fecha": "2026-10-23T10:27:00.000Z",
+      "fuente": "Araucanía Diario",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -66,15 +75,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZlR5aVNPXzM4Sjhmd3dmbWJvbWprWllTeGlIZS0xMXhEVHh2Z0dvSXZ2Z3dpdXh2T1hvaThnRlZDcUE4NTd3NWFxSzRCWnhCOG1yaEZ4cENxeGRHVS0yRk93Nmd5ZzNZcmluMDhaUkpsVWdpYWJXRkItSjFuVXR2R1RUcWw5SGhmeUZ6QVJSQ0FnZ1VHamEwOVk4Q1I2WW55OVNXLXRjQnZIdnQ2QXU2eE5jWmMzNGlCUlZwZVRaNFhPc3RyLURCVTRhZW5XZS1xMXgtdDVNZjNaeHJfZEY2cW9YWXpqWFJLUXZwamd1TXJOQQ?oc=5",
       "fecha": "2026-10-10T07:00:00.000Z",
       "fuente": "OvejeroNoticias",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
-      "titulo": "Senado reconoce 40 años del Club de Leones Cruz del Sur",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQklqaDdQWG9OZmlhSWVpb3NXbXFEZDRSZE9VNDM1WXJLMEMxU2FGamI3Sm5xS3FEZHRqT2Nac3hRZ1FZV2R3ZVFwY0w0YldRSERrZUdneVpaRU05WTRYUHRZLUNkRjlEUFhzQ3l2cHZub09icUU5OEVRMEMyTEl2djhsWVg?oc=5",
-      "fecha": "2026-10-09T22:49:48.000Z",
-      "fuente": "veredictum.cl",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -160,15 +160,6 @@
       "imagen": ""
     },
     {
-      "titulo": "El mejor Regalo para mamá: Leones presentan a Roberto Bravo en el Municipal",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM3k1SGc3U1hLaHVic295WGlmQ21UME1GS3A0QUFJM0dsV1hNODZKbVc0bV8xZkFXYl9zbmZQU3dBUFFmTzF6UVFSZVhsRTI1M3dKa0x3a1hfdGdMVHhDc0U2UFN6eFRBdVpvUnlSNmpTbHNqVHlXSFlMVG1aY1RfT0RoclRHUjhKZzlkbURfN3dEUm9LX0MzbFkyS1VZUmpjcmZUbWw4Qkllc0xoZUZYbjZvLTY3Z3Rz0gGwAUFVX3lxTE56NkVFRXNLanFPRnVLWHpCdHRTSTQxU0VlcXdYRkhWbDJCbktSQm5YeDdzOXVjZGNPaGxpaGRSVGM2ZW90X0RPYXJwalR1dW5xQ3I3aG1pZnBTSDdFa0pWRHdQR1d5d1JLMXRrYXRBLXBuUDZjdGdOcjJ3clctWGFaUUlCSHpKa0hFZ0FsTXN5TjlzS3RsNzBnS3YwWUp0VUpkVGhvOXVNUmtVU2ZoSEdj?oc=5",
-      "fecha": "2026-05-08T07:00:00.000Z",
-      "fuente": "Araucanía Diario",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
       "titulo": "UFRO fortalece vínculos con organizaciones sociales tras visita protocolar del Club de Leones Temuco Antumalal",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX1cxbkI1anVfcjBMV0Z1QTZFQVFWY05ybEpxQjFKdjUyNkFkdHRXWUdkN2V2TXFObVVYZ3VEMTZPekdxcXhqWnRSLUdERF8xVmtiMmctZjFKX0YxbWtDRFpCLUtBNGdaMG1haGFPT2xaOUJhUS1zcXRnaHlYY1l6dEJiYTNnXy0wMkZDcXZBVHpfQmpJeTdlaHRVRENNVDNHRF9MOVc4eFV5RHBxak1ibXhmS3JvUnZRZld2b3hUTmRNY0FJejdic3lFNVlrVnNlWFJqbGpNWHBnUmc?oc=5",
@@ -189,9 +180,9 @@
     {
       "titulo": "75 años del Leonismo en Uruguay: una historia de servicio que trascendió fronteras",
       "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenh4TmRIVnZJdHZuTHVETUI2VC0xdFhDTTZEU2xnbDBOUWdxQUg4bC1WUU4zTVBQV2lTd05oNS1TWk5XWFBJZVVGMGtzSGlTZDdvcmlDS0xWX1ZOLUFNbTh5SlE3aGptYnFqMXJabEF5UTdSMGlWMUg0b1ZSaUpkOFJuYzdiY3NvTFRRQjZoUnQxeW5wdi1FbFFLSHF1eXg3SG1vckJMVFdWdC1ZUk03SWNR?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0FjaHJMUDBQRFhLeXlaR01oSmhIa21ueWRCUDhDcE8wU0l0WWFGSjV1bWowTFY4aUVqd0JHTFNNZm1nOHJlZVJQU19vYXI5dGo4eUp4cUdLVVZCMTdFYzRvam1IZHl4U2JINThaNmN4QkNvdERLcExpTkM5MnhVa2d6UmxJWWl2Qm9wejg1NUZyQ01GUl9EcVFMZjh1NktQOVQ0MTRRUUdmVE0?oc=5",
       "fecha": "2026-04-03T07:00:00.000Z",
-      "fuente": "Radio Libertadores",
+      "fuente": "10minutos.com.uy",
       "tipo": "prensa",
       "imagen": ""
     },
