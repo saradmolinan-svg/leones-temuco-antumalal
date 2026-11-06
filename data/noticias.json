@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-06T02:57:03.557Z",
+  "generado": "2026-11-06T17:44:01.488Z",
   "total": 24,
   "fuentes": [
     {
@@ -24,6 +24,15 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "Learning to Live with Diabetes",
+      "resumen": "Life with type 1 diabetes (T1D) can be very difficult for children. The level of responsibility required for managing the disease, including constant blood sugar monitoring, can be extremely overwhelming for people so young. The D",
+      "enlace": "https://lionmagazine.org/articles/learning-to-live-with-diabetes/",
+      "fecha": "2026-11-06T14:00:38.000Z",
+      "fuente": "LION Magazine",
+      "tipo": "oficial",
+      "imagen": "https://lionmagazine.org/wp-content/uploads/2026/11/panamadiabetes1-300x200.jpg"
+    },
     {
       "titulo": "CARTEL DE LA PAZ, UN CONCURSO INSIGNIA PARA LOS CLUBES DE LEONES",
       "resumen": "",
@@ -122,15 +131,6 @@
       "fuente": "LION Magazine",
       "tipo": "oficial",
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Lyon_DSC07079-Fix-300x178.jpg"
-    },
-    {
-      "titulo": "Crossing into Friendship",
-      "resumen": "Lion Mike Contreras of Whidbey Island, Washington, was about to cross a busy street when he noticed an elderly man in the crosswalk struggling to maneuver his wheelchair. The Oak Harbor Lion and former police officer quickly jumpe",
-      "enlace": "https://lionmagazine.org/articles/crossing-into-friendship/",
-      "fecha": "2026-08-12T12:36:11.000Z",
-      "fuente": "LION Magazine",
-      "tipo": "oficial",
-      "imagen": "https://lionmagazine.org/wp-content/uploads/2026/07/Photo-caption_-Kirk-with-Lions-Mike-Contreras-Rob-Horvath-290x300.jpg"
     },
     {
       "titulo": "En una emotiva y solemne ceremonia, realizada el viernes 10 de julio, el Club de Leones Puerto Varas efectuó el tradicional Cambio de Mando de su Directorio para el período leonístico 2026–2027, dando inicio a una nueva etapa de servicio en beneficio d",
