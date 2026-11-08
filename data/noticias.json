@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-07T16:40:30.479Z",
+  "generado": "2026-11-08T01:55:58.018Z",
   "total": 24,
   "fuentes": [
     {
@@ -32,15 +32,6 @@
       "fuente": "LION Magazine",
       "tipo": "oficial",
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/11/panamadiabetes1-300x200.jpg"
-    },
-    {
-      "titulo": "Roberto Bravo ofrecerá concierto en apoyo a la obra social del Club de Leones Temuco Antumalal",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVlB6Z01YbHlxQmVxejJ1ZkpxbWFKZ1E1eG9hRGJlVlY3ODlMTC1oeHpjYXAtMkU4aDREREk2anZBMFZtVll1VEliejB3ZmNlZDY2ZV96Uk4zTkxiLWlmdVJzMUR3SEVQWExSMnJuNHpGdEwySTl2bW93TU1nVXVlMWtqbHRLTjY5Ql9LbzRiZXFpMG95TmV2b21NREJaN0dSUTQ3ZjBrRkRwazFncDloYjdwSmItZjZKV0ZOWk4xcmM5V1phMEZrX0lyYnlzOFV2T19DRllyVjJ0Rms?oc=5",
-      "fecha": "2026-10-23T15:29:55.000Z",
-      "fuente": "lavozdepucon",
-      "tipo": "prensa",
-      "imagen": ""
     },
     {
       "titulo": "Pianista Roberto Bravo ofrecerá concierto en apoyo a la obra social del Club de Leones Temuco Antumalal",
@@ -237,6 +228,15 @@
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTJ6OVN3YXlOTWtWc2JmZTFMbEcxbEZSRXdBejAySTBkRUFPLTQwNkxzeDBlNTFSUWRndFE1cVVvNXpvZWJ6UzdqYVc5M2ljaTVoOWlneDBGSnBiM3g1X05KY1NCbkJhbDNwLVNzTFVBbS1CT3FKckk1Tl9pLXZGYXZvVXVsbEs1Mm5Ram5FY2FzSlVLWjZrS1czWHNPT1FfbGE2NGtFV2ZSdndoSFB6cDFaUWtLSUJHWHJBV254bkxDSzhnTWpxYnRGLVROdmU1MnVRNFg5QQ?oc=5",
       "fecha": "2025-05-09T07:00:00.000Z",
       "fuente": "Canal 9 Bío Bío Televisión",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ley declara el 24 de abril como el Día del Leonismo Chileno",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzhrNllSYkFSTjk4SE5ERXVDT1ozazZoZkg3RTA5U0xSV0ozdmN1ekdTZVN2bXNWbzBNdU9kUnFjbnQ0U2FyeG9XVWVFYkZwWTB2eERUa1lQOWs0MHRVNkVKc2VVQ3lYa0JPSkZsekdxbTJONGdkM2x4LTFCVjdkVkJNaDJZelhFSlJ5Z3ozSjV3Mm9HbGZPMHdR?oc=5",
+      "fecha": "2022-07-04T17:31:59.000Z",
+      "fuente": "home.doe.cl",
       "tipo": "prensa",
       "imagen": ""
     }
