@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-08T16:49:23.282Z",
+  "generado": "2026-11-09T02:12:00.284Z",
   "total": 24,
   "fuentes": [
     {
@@ -68,15 +68,6 @@
       "fuente": "LION Magazine",
       "tipo": "oficial",
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/10/WhatsApp-Image-2026-04-28-at-10.13.47-AM-169x300.jpeg"
-    },
-    {
-      "titulo": "Donación en Osorno: Club de Leones Pilmaiquén apoya a Comedor Solidario",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SQnNDNlB5OW43eEZMSkM1OEF0am9aQ3BVeEJDY2NvS2JGQ0MxOEV2djQ4UUdPdlB3czhQSmh0M19uaVhKaXdWanExU19FVnlhZTYtbG1GUEhzUkFUaWNXNWcwbXNRNS1vOE5EZzVDYm1jZWFraUxyQ1BR?oc=5",
-      "fecha": "2026-10-05T07:00:00.000Z",
-      "fuente": "Paislobo Prensa",
-      "tipo": "prensa",
-      "imagen": ""
     },
     {
       "titulo": "LCIF’s Rapid Response to Ebola",
@@ -228,6 +219,15 @@
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTJ6OVN3YXlOTWtWc2JmZTFMbEcxbEZSRXdBejAySTBkRUFPLTQwNkxzeDBlNTFSUWRndFE1cVVvNXpvZWJ6UzdqYVc5M2ljaTVoOWlneDBGSnBiM3g1X05KY1NCbkJhbDNwLVNzTFVBbS1CT3FKckk1Tl9pLXZGYXZvVXVsbEs1Mm5Ram5FY2FzSlVLWjZrS1czWHNPT1FfbGE2NGtFV2ZSdndoSFB6cDFaUWtLSUJHWHJBV254bkxDSzhnTWpxYnRGLVROdmU1MnVRNFg5QQ?oc=5",
       "fecha": "2025-05-09T07:00:00.000Z",
       "fuente": "Canal 9 Bío Bío Televisión",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
+      "titulo": "DÍA DEL LEONISMO CHILENO",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rT3FRUnN0UkhmZWNzbEVQX0VOZ1pLbmFUeXVHa2ZxaEM1UWlpMEZGQWJfVFNmRU11SUk5akx0NS1nYU9OY0tKcGI0dFhJbmt4MURKYklCSFFsbGMtd0hfT1FycElzR0tjV0E4UHJn?oc=5",
+      "fecha": "2025-04-24T07:00:00.000Z",
+      "fuente": "Radio Viaducto Collipulli",
       "tipo": "prensa",
       "imagen": ""
     },
