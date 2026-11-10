@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-10T04:24:16.935Z",
+  "generado": "2026-11-10T18:21:16.428Z",
   "total": 24,
   "fuentes": [
     {
@@ -24,6 +24,15 @@
     }
   ],
   "noticias": [
+    {
+      "titulo": "“Como centro, no recibimos ni un peso”: Club de Leones de Magallanes reacciona a dichos de Kast durante la Teletón",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZlAwdWg3WUVhWXJNTTFPdWg3TzhNME5lQ2pfMnV4cGpqenJfVmNJdElrS3NDajRNaHNKdDdPYzNlVjdwcFV2SEt3U2tiWlNQTUNTRHllUWdvN2lVZEJMb2dOSGF4Um1qU2s3UkdsbThQR2RtUHF2bXZLZjM5b3QzcklfQ1R4czNQSDFhUFg5eF9TckNNMHBzLTRnZWpsbmwtNk1jTXp4NTVQeldQRm1DOFVtTG4tQTlmMGtUZ2VaWVRrX0JGcFNyZHFrbE5VaHVEcTZ4RnFneElsUWtLY3pRbGhPdmnSAYYCQVVfeXFMTjlXRFNHQ3ZkamlhOTd3UVo5dHVEZnJoSjZPa0MwaEFvU3R5blctRHZLUVJUVnZhUG9fUkFTX1ppOXlPbzlNZm5CNmE5eVlsdkNmbm9YdV80UjQ5Skt6V3NjTjB5amVfVFZXblpHbzRrNHJ5aVUyUUhLTHNEQ0Y0bmJlUkx0aWZvcU4wa25oc0pjMlBPWjhCeGx6ZFJ0OHYtV2FWSG1wbEdvMFY0MEtVZDFNdkNrb0Z1cll3N2hxd3loOVNNNHNQcWlSdW8wTXhXenNCSWRTMjBmOUF2czNGSkFLcHN6SlMzeEdWdEtCVWRGZHBCck9HQlczWHlWS2JQOWs0YUIwUQ?oc=5",
+      "fecha": "2026-11-10T10:58:43.000Z",
+      "fuente": "La Cuarta",
+      "tipo": "prensa",
+      "imagen": ""
+    },
     {
       "titulo": "Club de Leones de Magallanes aclara a Kast que su centro de rehabilitación no pertenece a la Teletón",
       "resumen": "",
@@ -187,6 +196,15 @@
       "imagen": ""
     },
     {
+      "titulo": "75 años del Leonismo en Uruguay: una historia de servicio que trascendió fronteras",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenh4TmRIVnZJdHZuTHVETUI2VC0xdFhDTTZEU2xnbDBOUWdxQUg4bC1WUU4zTVBQV2lTd05oNS1TWk5XWFBJZVVGMGtzSGlTZDdvcmlDS0xWX1ZOLUFNbTh5SlE3aGptYnFqMXJabEF5UTdSMGlWMUg0b1ZSaUpkOFJuYzdiY3NvTFRRQjZoUnQxeW5wdi1FbFFLSHF1eXg3SG1vckJMVFdWdC1ZUk03SWNR?oc=5",
+      "fecha": "2026-04-03T07:00:00.000Z",
+      "fuente": "Radio Libertadores",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
       "titulo": "El viernes 27 de junio, en la sede del Club de Leones de Puerto Varas, se llevó a cabo la transmisión de mando del Club de Leones de Puerto Varas donde hizo entrega del mando el León Osvaldo Emhart Vicencio al nuevo presidente periodo 2025- 2026 L",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bldoQzRsU25BUmxpY1R6cmV1aGdhVUlobmhOWml3aUdKMDRKSHNZSU5odGNZVWNvQ1FNdnR3b2l3OGhjSlZ4MjRUQTBIdTgwZ3c?oc=5",
@@ -214,29 +232,11 @@
       "imagen": ""
     },
     {
-      "titulo": "UACh presente en Operativo de Salud convocado por Club de Leones de Calbuco",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOclh5cXRFVTFObE1PeHNSODRaZkFQWWZySXhxMGdaUDlGUmpfNXhDckdrNlB2UUpScDEyN0ZReTZGZHlxNWhwLVNWTFYxX2tfcDYyRmxJWFBRMlpiRUNYS3VuWWpEUDc3SDlBaXQwMGVyWHlPRl9EczJoa09OdlRtU1VSMnQySGtYRW1NcGJwRk9iWkFGaEp2THdYMDhwdkFt?oc=5",
-      "fecha": "2024-06-14T07:00:00.000Z",
-      "fuente": "Universidad Austral de Chile",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
       "titulo": "Ley declara el 24 de abril como el Día del Leonismo Chileno",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzhrNllSYkFSTjk4SE5ERXVDT1ozazZoZkg3RTA5U0xSV0ozdmN1ekdTZVN2bXNWbzBNdU9kUnFjbnQ0U2FyeG9XVWVFYkZwWTB2eERUa1lQOWs0MHRVNkVKc2VVQ3lYa0JPSkZsekdxbTJONGdkM2x4LTFCVjdkVkJNaDJZelhFSlJ5Z3ozSjV3Mm9HbGZPMHdR?oc=5",
       "fecha": "2022-07-04T17:31:59.000Z",
       "fuente": "home.doe.cl",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
-      "titulo": "Campaña de los Clubes de Leones en el Día Mundial de la Diabetes ¡Estamos a tiempo todavía!",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BWmZvSEpOSXRWTktKNjNOclRGQVhZUC1STGltOTVYV1hTV2Q4SHBXcjJteGpmek5IRnRUOWt1OF9mcmVaeGcxTTRxemV6UnJLZ0hxMWlmSV9odlZrcDNtSERIQ3dMUTNvbTJ5ZktUQ3pFcEVQQjU1V0pBdkt0UlU?oc=5",
-      "fecha": "2020-11-14T08:00:00.000Z",
-      "fuente": "Paislobo Prensa",
       "tipo": "prensa",
       "imagen": ""
     }
