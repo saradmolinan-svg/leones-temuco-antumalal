@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-09T21:10:55.943Z",
+  "generado": "2026-11-10T04:24:16.935Z",
   "total": 24,
   "fuentes": [
     {
@@ -160,15 +160,6 @@
       "imagen": ""
     },
     {
-      "titulo": "SMU lanza nueva edición de campaña Unidos en apoyo de Fundación Las Rosas y Club de Leones Cruz del Sur",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmRIWjlwTEh0QVNnWl9zU2JmUy0wRl9OMzFFUGFZd0xPNkVsLWllcUVZYWozRzd2TTV1NkMwTEtUU2RTTUxDNWc5VnJZUENYY09WQTdNWTdrOFRUSzF6ZWhSSmRIdWx6bGZycVJmT0gxMmJ1QjdDWkNscUJHbDVFLWMxREQ0S0VIVFhTQW9rWlVOZGJpRWdEQlB1QWZVZTVTRVRxUFpSMUotVWREbG9WMEM2UllyNU5FbmhwSHlrYTR0YzVtMUJXaktmSzM2RHVGTzFHSDFFUEg?oc=5",
-      "fecha": "2026-07-02T07:00:00.000Z",
-      "fuente": "Supermercado Al Día",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
       "titulo": "SE CUMPLEN 109 AÑOS DESDE LA FUNDACION DE LIONS INTERNATIONAL",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaFQydERzN3RiVjdTVFFyeTlNdFVndzVHby1najZ0aEVWVVpLTlI3UFhBdjUwd3pacmtwNEczWWJqeWk5TkVUdW4wUFlCSGdycHd5LXEwMzd0NU9oTWRqT2EwbWNManFwWnVqS3BXTzBGaFlXdUNGV2g4ejJRMG5fNDQtQTRSa2w5TXpMeHBCUV9VM2ZtNkw4WEF6dVNIVm8?oc=5",
@@ -192,15 +183,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX1cxbkI1anVfcjBMV0Z1QTZFQVFWY05ybEpxQjFKdjUyNkFkdHRXWUdkN2V2TXFObVVYZ3VEMTZPekdxcXhqWnRSLUdERF8xVmtiMmctZjFKX0YxbWtDRFpCLUtBNGdaMG1haGFPT2xaOUJhUS1zcXRnaHlYY1l6dEJiYTNnXy0wMkZDcXZBVHpfQmpJeTdlaHRVRENNVDNHRF9MOVc4eFV5RHBxak1ibXhmS3JvUnZRZld2b3hUTmRNY0FJejdic3lFNVlrVnNlWFJqbGpNWHBnUmc?oc=5",
       "fecha": "2026-05-04T07:00:00.000Z",
       "fuente": "Universidad de La Frontera",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
-      "titulo": "75 años del Leonismo en Uruguay: una historia de servicio que trascendió fronteras",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenh4TmRIVnZJdHZuTHVETUI2VC0xdFhDTTZEU2xnbDBOUWdxQUg4bC1WUU4zTVBQV2lTd05oNS1TWk5XWFBJZVVGMGtzSGlTZDdvcmlDS0xWX1ZOLUFNbTh5SlE3aGptYnFqMXJabEF5UTdSMGlWMUg0b1ZSaUpkOFJuYzdiY3NvTFRRQjZoUnQxeW5wdi1FbFFLSHF1eXg3SG1vckJMVFdWdC1ZUk03SWNR?oc=5",
-      "fecha": "2026-04-03T07:00:00.000Z",
-      "fuente": "Radio Libertadores",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -232,11 +214,29 @@
       "imagen": ""
     },
     {
+      "titulo": "UACh presente en Operativo de Salud convocado por Club de Leones de Calbuco",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOclh5cXRFVTFObE1PeHNSODRaZkFQWWZySXhxMGdaUDlGUmpfNXhDckdrNlB2UUpScDEyN0ZReTZGZHlxNWhwLVNWTFYxX2tfcDYyRmxJWFBRMlpiRUNYS3VuWWpEUDc3SDlBaXQwMGVyWHlPRl9EczJoa09OdlRtU1VSMnQySGtYRW1NcGJwRk9iWkFGaEp2THdYMDhwdkFt?oc=5",
+      "fecha": "2024-06-14T07:00:00.000Z",
+      "fuente": "Universidad Austral de Chile",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
       "titulo": "Ley declara el 24 de abril como el Día del Leonismo Chileno",
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzhrNllSYkFSTjk4SE5ERXVDT1ozazZoZkg3RTA5U0xSV0ozdmN1ekdTZVN2bXNWbzBNdU9kUnFjbnQ0U2FyeG9XVWVFYkZwWTB2eERUa1lQOWs0MHRVNkVKc2VVQ3lYa0JPSkZsekdxbTJONGdkM2x4LTFCVjdkVkJNaDJZelhFSlJ5Z3ozSjV3Mm9HbGZPMHdR?oc=5",
       "fecha": "2022-07-04T17:31:59.000Z",
       "fuente": "home.doe.cl",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
+      "titulo": "Campaña de los Clubes de Leones en el Día Mundial de la Diabetes ¡Estamos a tiempo todavía!",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BWmZvSEpOSXRWTktKNjNOclRGQVhZUC1STGltOTVYV1hTV2Q4SHBXcjJteGpmek5IRnRUOWt1OF9mcmVaeGcxTTRxemV6UnJLZ0hxMWlmSV9odlZrcDNtSERIQ3dMUTNvbTJ5ZktUQ3pFcEVQQjU1V0pBdkt0UlU?oc=5",
+      "fecha": "2020-11-14T08:00:00.000Z",
+      "fuente": "Paislobo Prensa",
       "tipo": "prensa",
       "imagen": ""
     }
