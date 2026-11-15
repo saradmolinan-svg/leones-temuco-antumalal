@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-14T16:47:04.780Z",
+  "generado": "2026-11-15T17:29:22.172Z",
   "total": 24,
   "fuentes": [
     {
@@ -29,7 +29,7 @@
       "resumen": "",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObGlCYTN6M2R4NVNQakllTmVubDg2elIwTFZST2QzVzRGZ3lobGIyY2NaRmpkMm5LR3l4OUJkRnpmenREUDdQY2RvaERHZjdxTHRvODcyMU55RVlzcXRQS2E4VnVuRlRSOE5oNkFjOG1hckFHV3JiYS1Xb1kzRDRuczFWSG9weVYzNTNJOEZqa2lPLWYwcGUyZzlHR0FZTWdSc2lvUGZHOFNYYjlpbk5WekFYYXNveG9PNEQ5ZGF4NEU5ZG5ZcW1abQ?oc=5",
       "fecha": "2026-11-10T21:37:04.000Z",
-      "fuente": "El MagallaNews",
+      "fuente": "elmagallanews.cl",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -104,6 +104,15 @@
       "fuente": "LION Magazine",
       "tipo": "oficial",
       "imagen": "https://lionmagazine.org/wp-content/uploads/2026/10/WhatsApp-Image-2026-04-28-at-10.13.47-AM-169x300.jpeg"
+    },
+    {
+      "titulo": "Donación en Osorno: Club de Leones Pilmaiquén apoya a Comedor Solidario",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SQnNDNlB5OW43eEZMSkM1OEF0am9aQ3BVeEJDY2NvS2JGQ0MxOEV2djQ4UUdPdlB3czhQSmh0M19uaVhKaXdWanExU19FVnlhZTYtbG1GUEhzUkFUaWNXNWcwbXNRNS1vOE5EZzVDYm1jZWFraUxyQ1BR?oc=5",
+      "fecha": "2026-10-05T07:00:00.000Z",
+      "fuente": "Paislobo Prensa",
+      "tipo": "prensa",
+      "imagen": ""
     },
     {
       "titulo": "LCIF’s Rapid Response to Ebola",
@@ -207,9 +216,9 @@
     {
       "titulo": "75 años del Leonismo en Uruguay: una historia de servicio que trascendió fronteras",
       "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0FjaHJMUDBQRFhLeXlaR01oSmhIa21ueWRCUDhDcE8wU0l0WWFGSjV1bWowTFY4aUVqd0JHTFNNZm1nOHJlZVJQU19vYXI5dGo4eUp4cUdLVVZCMTdFYzRvam1IZHl4U2JINThaNmN4QkNvdERLcExpTkM5MnhVa2d6UmxJWWl2Qm9wejg1NUZyQ01GUl9EcVFMZjh1NktQOVQ0MTRRUUdmVE0?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenh4TmRIVnZJdHZuTHVETUI2VC0xdFhDTTZEU2xnbDBOUWdxQUg4bC1WUU4zTVBQV2lTd05oNS1TWk5XWFBJZVVGMGtzSGlTZDdvcmlDS0xWX1ZOLUFNbTh5SlE3aGptYnFqMXJabEF5UTdSMGlWMUg0b1ZSaUpkOFJuYzdiY3NvTFRRQjZoUnQxeW5wdi1FbFFLSHF1eXg3SG1vckJMVFdWdC1ZUk03SWNR?oc=5",
       "fecha": "2026-04-03T07:00:00.000Z",
-      "fuente": "10minutos.com.uy",
+      "fuente": "Radio Libertadores",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -228,15 +237,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzhrNllSYkFSTjk4SE5ERXVDT1ozazZoZkg3RTA5U0xSV0ozdmN1ekdTZVN2bXNWbzBNdU9kUnFjbnQ0U2FyeG9XVWVFYkZwWTB2eERUa1lQOWs0MHRVNkVKc2VVQ3lYa0JPSkZsekdxbTJONGdkM2x4LTFCVjdkVkJNaDJZelhFSlJ5Z3ozSjV3Mm9HbGZPMHdR?oc=5",
       "fecha": "2022-07-04T17:31:59.000Z",
       "fuente": "home.doe.cl",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
-      "titulo": "Campaña de los Clubes de Leones en el Día Mundial de la Diabetes ¡Estamos a tiempo todavía!",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BWmZvSEpOSXRWTktKNjNOclRGQVhZUC1STGltOTVYV1hTV2Q4SHBXcjJteGpmek5IRnRUOWt1OF9mcmVaeGcxTTRxemV6UnJLZ0hxMWlmSV9odlZrcDNtSERIQ3dMUTNvbTJ5ZktUQ3pFcEVQQjU1V0pBdkt0UlU?oc=5",
-      "fecha": "2020-11-14T08:00:00.000Z",
-      "fuente": "Paislobo Prensa",
       "tipo": "prensa",
       "imagen": ""
     }
