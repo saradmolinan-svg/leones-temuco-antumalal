@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-16T02:28:08.456Z",
+  "generado": "2026-11-16T20:44:24.981Z",
   "total": 24,
   "fuentes": [
     {
@@ -84,15 +84,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Xc0dKellxYzFYOGNtZFhldlZNZ0dMYzdTMlphdm9CaHF3TVZHWXFLamxzaWxNNF9hSGVGSHBzQTk5Z2hBa1ZoWGRxR2ZOazhicWc?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
       "fuente": "Instagram",
-      "tipo": "prensa",
-      "imagen": ""
-    },
-    {
-      "titulo": "Club de Leones impulsan operativo médico en Pitrufquén para ayudar a reducir lista de espera",
-      "resumen": "",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON3hpM1lwekQ5ZTVvd0pBeUJXVDJFamNJMk40OXhrZlhheERkTmZQWEU3aWRqWmV5cWVCeXQ1a1MxWGNxNXlkRm9aamkzQWp6R2RlSEtqSnhRNmJxa1pNSklGOG8xOXI5ZTBzQjBYZkFNUXExS3MySW9RVzNMNlFfVnNUVXk3TTl4Y3ZrV2xrTl9GOFo5cjFPeVljUTlIS3BwQVVCZkRFV3lvQ0FtSWxjR2JhUF9LY1lQVXlj0gG7AUFVX3lxTE43eGkzWXB6RDllNW93SkF5QldUMkVqY0kyTjQ5eGtmWGF4RGROZlBYRTdpZGpaZXlxZUJ5dDVrUzFYY3E1eWRGb1pqaTNBanpHZGVIS2pKeFE2YnFrWk1KSUY4bzE5cjllMHNCMFhmQU1RcTFLczJJb1FXM0w2UV9Wc1RVeTdNOXhjdmtXbGtOX0Y4WjlyMU95WWNROUhLcHBBVUJmREVXeW9DQW1JbGNHYmFQX0tjWVBVeWM?oc=5",
-      "fecha": "2026-10-17T13:40:27.000Z",
-      "fuente": "NDS - Noticias del Sur",
       "tipo": "prensa",
       "imagen": ""
     },
@@ -237,6 +228,15 @@
       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTZITmpjY1FTME9XakZWN1ZTN2tfMkY1NkdNY0xjeXR0TE5IaDlKVEJ2UTNPZ0N2a3dRMDI2d3hUN2J3bzdJLXV4azBGcEpkUkhENTMyOHFxUzByeTZ5aHBaTlZrM0NJMGxNNkJTVU1TX2tIdy1PYVNlbWhuNW1oLVZyQUY3YVYzRGR0MHRVTW00azIteUNoOU5CQmNNaGREUEhmc3hremNHWVlaSlU5anI2eFVYV2QwOEk4RHhoTDdyTmM?oc=5",
       "fecha": "2021-11-30T08:00:00.000Z",
       "fuente": "Universidad Austral de Chile",
+      "tipo": "prensa",
+      "imagen": ""
+    },
+    {
+      "titulo": "En Collipulli se reunió el Clubes de Leones distrito T 3",
+      "resumen": "",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzZra2tOTXkzLXNhcldRUkhjYzVuUlRtYmZNU25saHJTd0NvdndlQU1RQ0ZiOEdTeVFjd3drVnFGZWlCNmFzTll3REg1QUNTbmwzUjQ2bnZDbHFSalBVcWVsRzZ3SDR0MFpUUGVwLWxoZmNhdElJc3ZhUVlmYW9lZ0Z6eGR5clJEcWNvWVdDSmRUclBVVE44TFR2NU42NWN3QWc?oc=5",
+      "fecha": "2018-03-12T07:00:00.000Z",
+      "fuente": "araucanianoticias.cl",
       "tipo": "prensa",
       "imagen": ""
     }
